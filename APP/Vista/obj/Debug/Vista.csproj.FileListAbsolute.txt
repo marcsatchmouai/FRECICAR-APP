@@ -1,0 +1,448 @@
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Vista\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Vista\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Vista\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Vista\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Vista\bin\Debug\Vista.exe.config
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Vista\bin\Debug\Vista.exe
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Vista\bin\Debug\Vista.pdb
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Vista\bin\Debug\Controladora.dll
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Vista\bin\Debug\Entidades.dll
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Vista\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Vista\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Vista\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Vista\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Vista\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Vista\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Vista\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Vista\bin\Debug\Modelo.dll
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Vista\bin\Debug\Utilidades.dll
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Vista\bin\Debug\EnvDTE.dll
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Vista\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Vista\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Vista\bin\Debug\stdole.dll
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Vista\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Vista\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Vista\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Vista\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Vista\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Vista\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Vista\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Vista\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Vista\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Vista\bin\Debug\EnvDTE80.dll
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Vista\bin\Debug\Microsoft.Build.Tasks.Core.dll
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Vista\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Vista\bin\Debug\VSLangProj.dll
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Vista\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Vista\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Vista\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Vista\bin\Debug\VSLangProj80.dll
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Vista\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Vista\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Vista\bin\Debug\Newtonsoft.Json.dll
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Vista\bin\Debug\System.Threading.Tasks.Dataflow.dll
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Vista\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Vista\bin\Debug\Microsoft.MSXML.dll
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Vista\bin\Debug\Microsoft.Build.Utilities.Core.dll
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Vista\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Vista\bin\Debug\Microsoft.Build.Framework.dll
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Vista\bin\Debug\VSLangProj2.dll
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Vista\bin\Debug\Controladora.pdb
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Vista\bin\Debug\Entidades.pdb
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Vista\bin\Debug\Modelo.pdb
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Vista\bin\Debug\Utilidades.pdb
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Vista\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Vista\bin\Debug\es\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Vista\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Vista\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Vista\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Vista\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Vista\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Vista\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Vista\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Vista\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Vista\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Vista\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Vista\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Vista\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Vista\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Vista\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Vista\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Vista\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Vista\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Vista\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Vista\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Vista\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Vista\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Vista\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Vista\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Vista\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Vista\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Vista\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Vista\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Vista\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Vista\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Vista\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Vista\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Vista\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Vista\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Vista\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Vista\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Vista\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Vista\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Vista\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Vista\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Vista\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Vista\bin\Debug\es\Microsoft.VisualStudio.Data.Services.resources.dll
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Vista\bin\Debug\es\Microsoft.VisualStudio.Data.Core.resources.dll
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Vista\obj\Debug\Vista.csprojAssemblyReference.cache
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Vista\obj\Debug\Vista.exe.config
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Vista\obj\Debug\Vista.Auditoria.FormAuditoriaLogs.resources
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Vista\obj\Debug\Vista.FormPrincipal.resources
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Vista\obj\Debug\Vista.FrmCategoria.resources
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Vista\obj\Debug\Vista.FrmCategoriaProducto.resources
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Vista\obj\Debug\Vista.Categorias.resources
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Vista\obj\Debug\Vista.CategoriasP.resources
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Vista\obj\Debug\Vista.FrmCliente.resources
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Vista\obj\Debug\Vista.FrmCuentaCorriente.resources
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Vista\obj\Debug\Vista.FrmDetalleRemitoProveedor.resources
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Vista\obj\Debug\Vista.FrmDetallesOrdenCompra.resources
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Vista\obj\Debug\Vista.FrmDetallesVentas.resources
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Vista\obj\Debug\Vista.FrmFormaDeEnvio.resources
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Vista\obj\Debug\Vista.FrmFormadePago.resources
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Vista\obj\Debug\Vista.FormaEnvios.resources
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Vista\obj\Debug\Vista.FormaPagos.resources
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Vista\obj\Debug\Vista.Clientes.resources
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Vista\obj\Debug\Vista.FrmReporteMPP.resources
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Vista\obj\Debug\Vista.FrmReportePMV.resources
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Vista\obj\Debug\Vista.FRMReporteProductoMasVendido.resources
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Vista\obj\Debug\Vista.FrmReporteVentas.resources
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Vista\obj\Debug\Vista.Productos.resources
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Vista\obj\Debug\Vista.Ventas.resources
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Vista\obj\Debug\Vista.FrmMateriaPrima.resources
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Vista\obj\Debug\Vista.MateriasPrimas.resources
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Vista\obj\Debug\Vista.RealizarOrden.resources
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Vista\obj\Debug\Vista.OrdenesCompras.resources
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Vista\obj\Debug\Vista.RegistrarPago.resources
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Vista\obj\Debug\Vista.Pagos.resources
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Vista\obj\Debug\Vista.FrmProducto.resources
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Vista\obj\Debug\Vista.FrmProveedor.resources
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Vista\obj\Debug\Vista.Proveedores.resources
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Vista\obj\Debug\Vista.RealizarRemito.resources
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Vista\obj\Debug\Vista.RemitosProveedores.resources
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Vista\obj\Debug\Vista.FrmReporteOrden.resources
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Vista\obj\Debug\Vista.FrmReporteRemito.resources
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Vista\obj\Debug\Vista.RealizarVenta.resources
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Vista\obj\Debug\Vista.Properties.Resources.resources
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Vista\obj\Debug\Vista.Seguridad.FormCambiarClave.resources
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Vista\obj\Debug\Vista.Seguridad.FormConfigurarMail.resources
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Vista\obj\Debug\Vista.Seguridad.FormGrupo.resources
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Vista\obj\Debug\Vista.Seguridad.FormGruposUsuario.resources
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Vista\obj\Debug\Vista.Seguridad.FormLogin.resources
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Vista\obj\Debug\Vista.Seguridad.FormPerfil.resources
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Vista\obj\Debug\Vista.Seguridad.FormSeguridad.resources
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Vista\obj\Debug\Vista.Seguridad.FormUsuario.resources
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Vista\obj\Debug\Vista.csproj.GenerateResource.cache
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Vista\obj\Debug\Vista.csproj.CoreCompileInputs.cache
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Vista\obj\Debug\Vista.csproj.CopyComplete
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Vista\obj\Debug\Vista.exe
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Vista\obj\Debug\Vista.pdb
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Vista\obj\Debug\RdlCompile.cache
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Vista\obj\Debug\RdlCompile.compiled
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Vista\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Vista\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Vista\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Vista\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Vista\bin\Debug\Vista.exe.config
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Vista\bin\Debug\Vista.exe
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Vista\bin\Debug\Vista.pdb
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Vista\bin\Debug\Controladora.dll
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Vista\bin\Debug\Entidades.dll
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Vista\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Vista\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Vista\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Vista\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Vista\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Vista\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Vista\bin\Debug\Modelo.dll
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Vista\bin\Debug\Utilidades.dll
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Vista\bin\Debug\EnvDTE.dll
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Vista\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Vista\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Vista\bin\Debug\stdole.dll
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Vista\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Vista\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Vista\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Vista\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Vista\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Vista\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Vista\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Vista\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Vista\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Vista\bin\Debug\EnvDTE80.dll
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Vista\bin\Debug\Microsoft.Build.Tasks.Core.dll
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Vista\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Vista\bin\Debug\VSLangProj.dll
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Vista\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Vista\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Vista\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Vista\bin\Debug\VSLangProj80.dll
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Vista\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Vista\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Vista\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Vista\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Vista\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Vista\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Vista\bin\Debug\Microsoft.Build.Utilities.Core.dll
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Vista\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Vista\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Vista\bin\Debug\VSLangProj2.dll
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Vista\bin\Debug\Controladora.pdb
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Vista\bin\Debug\Entidades.pdb
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Vista\bin\Debug\Modelo.pdb
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Vista\bin\Debug\Utilidades.pdb
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Vista\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Vista\bin\Debug\es\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Vista\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Vista\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Vista\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Vista\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Vista\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Vista\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Vista\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Vista\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Vista\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Vista\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Vista\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Vista\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Vista\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Vista\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Vista\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Vista\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Vista\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Vista\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Vista\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Vista\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Vista\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Vista\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Vista\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Vista\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Vista\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Vista\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Vista\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Vista\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Vista\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Vista\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Vista\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Vista\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Vista\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Vista\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Vista\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Vista\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Vista\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Vista\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Vista\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Vista\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Vista\bin\Debug\es\Microsoft.VisualStudio.Data.Services.resources.dll
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Vista\bin\Debug\es\Microsoft.VisualStudio.Data.Core.resources.dll
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Vista\obj\Debug\Vista.csprojAssemblyReference.cache
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Vista\obj\Debug\Vista.exe.config
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Vista\obj\Debug\Vista.Auditoria.FormAuditoriaLogs.resources
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Vista\obj\Debug\Vista.FormPrincipal.resources
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Vista\obj\Debug\Vista.FrmCategoria.resources
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Vista\obj\Debug\Vista.FrmCategoriaProducto.resources
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Vista\obj\Debug\Vista.Categorias.resources
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Vista\obj\Debug\Vista.CategoriasP.resources
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Vista\obj\Debug\Vista.FrmCliente.resources
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Vista\obj\Debug\Vista.FrmCuentaCorriente.resources
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Vista\obj\Debug\Vista.FrmDetalleRemitoProveedor.resources
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Vista\obj\Debug\Vista.FrmDetallesOrdenCompra.resources
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Vista\obj\Debug\Vista.FrmDetallesVentas.resources
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Vista\obj\Debug\Vista.FrmFormaDeEnvio.resources
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Vista\obj\Debug\Vista.FrmFormadePago.resources
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Vista\obj\Debug\Vista.FormaEnvios.resources
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Vista\obj\Debug\Vista.FormaPagos.resources
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Vista\obj\Debug\Vista.Clientes.resources
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Vista\obj\Debug\Vista.FrmReporteMPP.resources
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Vista\obj\Debug\Vista.FrmReportePMV.resources
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Vista\obj\Debug\Vista.FRMReporteProductoMasVendido.resources
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Vista\obj\Debug\Vista.FrmReporteVentas.resources
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Vista\obj\Debug\Vista.Productos.resources
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Vista\obj\Debug\Vista.Ventas.resources
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Vista\obj\Debug\Vista.FrmMateriaPrima.resources
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Vista\obj\Debug\Vista.MateriasPrimas.resources
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Vista\obj\Debug\Vista.RealizarOrden.resources
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Vista\obj\Debug\Vista.OrdenesCompras.resources
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Vista\obj\Debug\Vista.RegistrarPago.resources
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Vista\obj\Debug\Vista.Pagos.resources
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Vista\obj\Debug\Vista.FrmProducto.resources
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Vista\obj\Debug\Vista.FrmProveedor.resources
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Vista\obj\Debug\Vista.Proveedores.resources
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Vista\obj\Debug\Vista.RealizarRemito.resources
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Vista\obj\Debug\Vista.RemitosProveedores.resources
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Vista\obj\Debug\Vista.FrmReporteOrden.resources
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Vista\obj\Debug\Vista.FrmReporteRemito.resources
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Vista\obj\Debug\Vista.RealizarVenta.resources
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Vista\obj\Debug\Vista.Properties.Resources.resources
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Vista\obj\Debug\Vista.Seguridad.FormCambiarClave.resources
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Vista\obj\Debug\Vista.Seguridad.FormConfigurarMail.resources
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Vista\obj\Debug\Vista.Seguridad.FormGrupo.resources
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Vista\obj\Debug\Vista.Seguridad.FormGruposUsuario.resources
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Vista\obj\Debug\Vista.Seguridad.FormLogin.resources
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Vista\obj\Debug\Vista.Seguridad.FormPerfil.resources
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Vista\obj\Debug\Vista.Seguridad.FormSeguridad.resources
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Vista\obj\Debug\Vista.Seguridad.FormUsuario.resources
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Vista\obj\Debug\Vista.csproj.GenerateResource.cache
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Vista\obj\Debug\Vista.csproj.CoreCompileInputs.cache
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Vista\obj\Debug\Vista.csproj.CopyComplete
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Vista\obj\Debug\Vista.exe
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Vista\obj\Debug\Vista.pdb
+C:\Users\Mateo\Google Drive\UAI\FRECICAR APP\APP\Vista\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Mateo\Google Drive\UAI\FRECICAR APP\APP\Vista\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Mateo\Google Drive\UAI\FRECICAR APP\APP\Vista\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Mateo\Google Drive\UAI\FRECICAR APP\APP\Vista\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Mateo\Google Drive\UAI\FRECICAR APP\APP\Vista\bin\Debug\Vista.exe.config
+C:\Users\Mateo\Google Drive\UAI\FRECICAR APP\APP\Vista\bin\Debug\Vista.exe
+C:\Users\Mateo\Google Drive\UAI\FRECICAR APP\APP\Vista\bin\Debug\Vista.pdb
+C:\Users\Mateo\Google Drive\UAI\FRECICAR APP\APP\Vista\bin\Debug\Controladora.dll
+C:\Users\Mateo\Google Drive\UAI\FRECICAR APP\APP\Vista\bin\Debug\Entidades.dll
+C:\Users\Mateo\Google Drive\UAI\FRECICAR APP\APP\Vista\bin\Debug\IrisSkin2.dll
+C:\Users\Mateo\Google Drive\UAI\FRECICAR APP\APP\Vista\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Mateo\Google Drive\UAI\FRECICAR APP\APP\Vista\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Mateo\Google Drive\UAI\FRECICAR APP\APP\Vista\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Mateo\Google Drive\UAI\FRECICAR APP\APP\Vista\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Mateo\Google Drive\UAI\FRECICAR APP\APP\Vista\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Mateo\Google Drive\UAI\FRECICAR APP\APP\Vista\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Mateo\Google Drive\UAI\FRECICAR APP\APP\Vista\bin\Debug\Modelo.dll
+C:\Users\Mateo\Google Drive\UAI\FRECICAR APP\APP\Vista\bin\Debug\Utilidades.dll
+C:\Users\Mateo\Google Drive\UAI\FRECICAR APP\APP\Vista\bin\Debug\EnvDTE.dll
+C:\Users\Mateo\Google Drive\UAI\FRECICAR APP\APP\Vista\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Mateo\Google Drive\UAI\FRECICAR APP\APP\Vista\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Mateo\Google Drive\UAI\FRECICAR APP\APP\Vista\bin\Debug\stdole.dll
+C:\Users\Mateo\Google Drive\UAI\FRECICAR APP\APP\Vista\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Mateo\Google Drive\UAI\FRECICAR APP\APP\Vista\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Mateo\Google Drive\UAI\FRECICAR APP\APP\Vista\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\Mateo\Google Drive\UAI\FRECICAR APP\APP\Vista\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+C:\Users\Mateo\Google Drive\UAI\FRECICAR APP\APP\Vista\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Mateo\Google Drive\UAI\FRECICAR APP\APP\Vista\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\Users\Mateo\Google Drive\UAI\FRECICAR APP\APP\Vista\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Users\Mateo\Google Drive\UAI\FRECICAR APP\APP\Vista\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Users\Mateo\Google Drive\UAI\FRECICAR APP\APP\Vista\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+C:\Users\Mateo\Google Drive\UAI\FRECICAR APP\APP\Vista\bin\Debug\EnvDTE80.dll
+C:\Users\Mateo\Google Drive\UAI\FRECICAR APP\APP\Vista\bin\Debug\Microsoft.Build.Tasks.Core.dll
+C:\Users\Mateo\Google Drive\UAI\FRECICAR APP\APP\Vista\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+C:\Users\Mateo\Google Drive\UAI\FRECICAR APP\APP\Vista\bin\Debug\VSLangProj.dll
+C:\Users\Mateo\Google Drive\UAI\FRECICAR APP\APP\Vista\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+C:\Users\Mateo\Google Drive\UAI\FRECICAR APP\APP\Vista\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+C:\Users\Mateo\Google Drive\UAI\FRECICAR APP\APP\Vista\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+C:\Users\Mateo\Google Drive\UAI\FRECICAR APP\APP\Vista\bin\Debug\VSLangProj80.dll
+C:\Users\Mateo\Google Drive\UAI\FRECICAR APP\APP\Vista\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+C:\Users\Mateo\Google Drive\UAI\FRECICAR APP\APP\Vista\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+C:\Users\Mateo\Google Drive\UAI\FRECICAR APP\APP\Vista\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Mateo\Google Drive\UAI\FRECICAR APP\APP\Vista\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\Mateo\Google Drive\UAI\FRECICAR APP\APP\Vista\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\Users\Mateo\Google Drive\UAI\FRECICAR APP\APP\Vista\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Mateo\Google Drive\UAI\FRECICAR APP\APP\Vista\bin\Debug\Microsoft.Build.Utilities.Core.dll
+C:\Users\Mateo\Google Drive\UAI\FRECICAR APP\APP\Vista\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+C:\Users\Mateo\Google Drive\UAI\FRECICAR APP\APP\Vista\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\Mateo\Google Drive\UAI\FRECICAR APP\APP\Vista\bin\Debug\VSLangProj2.dll
+C:\Users\Mateo\Google Drive\UAI\FRECICAR APP\APP\Vista\bin\Debug\Controladora.pdb
+C:\Users\Mateo\Google Drive\UAI\FRECICAR APP\APP\Vista\bin\Debug\Entidades.pdb
+C:\Users\Mateo\Google Drive\UAI\FRECICAR APP\APP\Vista\bin\Debug\Modelo.pdb
+C:\Users\Mateo\Google Drive\UAI\FRECICAR APP\APP\Vista\bin\Debug\Utilidades.pdb
+C:\Users\Mateo\Google Drive\UAI\FRECICAR APP\APP\Vista\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Users\Mateo\Google Drive\UAI\FRECICAR APP\APP\Vista\bin\Debug\es\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\Mateo\Google Drive\UAI\FRECICAR APP\APP\Vista\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Mateo\Google Drive\UAI\FRECICAR APP\APP\Vista\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Mateo\Google Drive\UAI\FRECICAR APP\APP\Vista\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Mateo\Google Drive\UAI\FRECICAR APP\APP\Vista\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Mateo\Google Drive\UAI\FRECICAR APP\APP\Vista\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Mateo\Google Drive\UAI\FRECICAR APP\APP\Vista\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Mateo\Google Drive\UAI\FRECICAR APP\APP\Vista\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Mateo\Google Drive\UAI\FRECICAR APP\APP\Vista\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Mateo\Google Drive\UAI\FRECICAR APP\APP\Vista\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Mateo\Google Drive\UAI\FRECICAR APP\APP\Vista\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Mateo\Google Drive\UAI\FRECICAR APP\APP\Vista\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Mateo\Google Drive\UAI\FRECICAR APP\APP\Vista\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Mateo\Google Drive\UAI\FRECICAR APP\APP\Vista\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Mateo\Google Drive\UAI\FRECICAR APP\APP\Vista\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Mateo\Google Drive\UAI\FRECICAR APP\APP\Vista\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Mateo\Google Drive\UAI\FRECICAR APP\APP\Vista\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Mateo\Google Drive\UAI\FRECICAR APP\APP\Vista\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Mateo\Google Drive\UAI\FRECICAR APP\APP\Vista\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Mateo\Google Drive\UAI\FRECICAR APP\APP\Vista\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Mateo\Google Drive\UAI\FRECICAR APP\APP\Vista\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Mateo\Google Drive\UAI\FRECICAR APP\APP\Vista\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Mateo\Google Drive\UAI\FRECICAR APP\APP\Vista\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Mateo\Google Drive\UAI\FRECICAR APP\APP\Vista\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Mateo\Google Drive\UAI\FRECICAR APP\APP\Vista\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Mateo\Google Drive\UAI\FRECICAR APP\APP\Vista\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Mateo\Google Drive\UAI\FRECICAR APP\APP\Vista\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Mateo\Google Drive\UAI\FRECICAR APP\APP\Vista\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Mateo\Google Drive\UAI\FRECICAR APP\APP\Vista\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Mateo\Google Drive\UAI\FRECICAR APP\APP\Vista\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Mateo\Google Drive\UAI\FRECICAR APP\APP\Vista\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Mateo\Google Drive\UAI\FRECICAR APP\APP\Vista\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Mateo\Google Drive\UAI\FRECICAR APP\APP\Vista\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Mateo\Google Drive\UAI\FRECICAR APP\APP\Vista\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Mateo\Google Drive\UAI\FRECICAR APP\APP\Vista\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Mateo\Google Drive\UAI\FRECICAR APP\APP\Vista\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Mateo\Google Drive\UAI\FRECICAR APP\APP\Vista\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Mateo\Google Drive\UAI\FRECICAR APP\APP\Vista\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Mateo\Google Drive\UAI\FRECICAR APP\APP\Vista\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Mateo\Google Drive\UAI\FRECICAR APP\APP\Vista\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Mateo\Google Drive\UAI\FRECICAR APP\APP\Vista\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Mateo\Google Drive\UAI\FRECICAR APP\APP\Vista\bin\Debug\es\Microsoft.VisualStudio.Data.Services.resources.dll
+C:\Users\Mateo\Google Drive\UAI\FRECICAR APP\APP\Vista\bin\Debug\es\Microsoft.VisualStudio.Data.Core.resources.dll
+C:\Users\Mateo\Google Drive\UAI\FRECICAR APP\APP\Vista\obj\Debug\Vista.csprojAssemblyReference.cache
+C:\Users\Mateo\Google Drive\UAI\FRECICAR APP\APP\Vista\obj\Debug\Vista.exe.config
+C:\Users\Mateo\Google Drive\UAI\FRECICAR APP\APP\Vista\obj\Debug\Vista.Auditoria.FormAuditoriaLogs.resources
+C:\Users\Mateo\Google Drive\UAI\FRECICAR APP\APP\Vista\obj\Debug\Vista.FormPrincipal.resources
+C:\Users\Mateo\Google Drive\UAI\FRECICAR APP\APP\Vista\obj\Debug\Vista.FrmCategoria.resources
+C:\Users\Mateo\Google Drive\UAI\FRECICAR APP\APP\Vista\obj\Debug\Vista.FrmCategoriaProducto.resources
+C:\Users\Mateo\Google Drive\UAI\FRECICAR APP\APP\Vista\obj\Debug\Vista.Categorias.resources
+C:\Users\Mateo\Google Drive\UAI\FRECICAR APP\APP\Vista\obj\Debug\Vista.CategoriasP.resources
+C:\Users\Mateo\Google Drive\UAI\FRECICAR APP\APP\Vista\obj\Debug\Vista.FrmCliente.resources
+C:\Users\Mateo\Google Drive\UAI\FRECICAR APP\APP\Vista\obj\Debug\Vista.FrmCuentaCorriente.resources
+C:\Users\Mateo\Google Drive\UAI\FRECICAR APP\APP\Vista\obj\Debug\Vista.FrmDetalleRemitoProveedor.resources
+C:\Users\Mateo\Google Drive\UAI\FRECICAR APP\APP\Vista\obj\Debug\Vista.FrmDetallesOrdenCompra.resources
+C:\Users\Mateo\Google Drive\UAI\FRECICAR APP\APP\Vista\obj\Debug\Vista.FrmDetallesVentas.resources
+C:\Users\Mateo\Google Drive\UAI\FRECICAR APP\APP\Vista\obj\Debug\Vista.FrmFormaDeEnvio.resources
+C:\Users\Mateo\Google Drive\UAI\FRECICAR APP\APP\Vista\obj\Debug\Vista.FrmFormadePago.resources
+C:\Users\Mateo\Google Drive\UAI\FRECICAR APP\APP\Vista\obj\Debug\Vista.FormaEnvios.resources
+C:\Users\Mateo\Google Drive\UAI\FRECICAR APP\APP\Vista\obj\Debug\Vista.FormaPagos.resources
+C:\Users\Mateo\Google Drive\UAI\FRECICAR APP\APP\Vista\obj\Debug\Vista.Clientes.resources
+C:\Users\Mateo\Google Drive\UAI\FRECICAR APP\APP\Vista\obj\Debug\Vista.FrmReporteMPP.resources
+C:\Users\Mateo\Google Drive\UAI\FRECICAR APP\APP\Vista\obj\Debug\Vista.FrmReportePMV.resources
+C:\Users\Mateo\Google Drive\UAI\FRECICAR APP\APP\Vista\obj\Debug\Vista.FRMReporteProductoMasVendido.resources
+C:\Users\Mateo\Google Drive\UAI\FRECICAR APP\APP\Vista\obj\Debug\Vista.FrmReporteVentas.resources
+C:\Users\Mateo\Google Drive\UAI\FRECICAR APP\APP\Vista\obj\Debug\Vista.Productos.resources
+C:\Users\Mateo\Google Drive\UAI\FRECICAR APP\APP\Vista\obj\Debug\Vista.Ventas.resources
+C:\Users\Mateo\Google Drive\UAI\FRECICAR APP\APP\Vista\obj\Debug\Vista.FrmMateriaPrima.resources
+C:\Users\Mateo\Google Drive\UAI\FRECICAR APP\APP\Vista\obj\Debug\Vista.MateriasPrimas.resources
+C:\Users\Mateo\Google Drive\UAI\FRECICAR APP\APP\Vista\obj\Debug\Vista.RealizarOrden.resources
+C:\Users\Mateo\Google Drive\UAI\FRECICAR APP\APP\Vista\obj\Debug\Vista.OrdenesCompras.resources
+C:\Users\Mateo\Google Drive\UAI\FRECICAR APP\APP\Vista\obj\Debug\Vista.RegistrarPago.resources
+C:\Users\Mateo\Google Drive\UAI\FRECICAR APP\APP\Vista\obj\Debug\Vista.Pagos.resources
+C:\Users\Mateo\Google Drive\UAI\FRECICAR APP\APP\Vista\obj\Debug\Vista.FrmProducto.resources
+C:\Users\Mateo\Google Drive\UAI\FRECICAR APP\APP\Vista\obj\Debug\Vista.FrmProveedor.resources
+C:\Users\Mateo\Google Drive\UAI\FRECICAR APP\APP\Vista\obj\Debug\Vista.Proveedores.resources
+C:\Users\Mateo\Google Drive\UAI\FRECICAR APP\APP\Vista\obj\Debug\Vista.RealizarRemito.resources
+C:\Users\Mateo\Google Drive\UAI\FRECICAR APP\APP\Vista\obj\Debug\Vista.RemitosProveedores.resources
+C:\Users\Mateo\Google Drive\UAI\FRECICAR APP\APP\Vista\obj\Debug\Vista.FrmReporteOrden.resources
+C:\Users\Mateo\Google Drive\UAI\FRECICAR APP\APP\Vista\obj\Debug\Vista.FrmReporteRemito.resources
+C:\Users\Mateo\Google Drive\UAI\FRECICAR APP\APP\Vista\obj\Debug\Vista.RealizarVenta.resources
+C:\Users\Mateo\Google Drive\UAI\FRECICAR APP\APP\Vista\obj\Debug\Vista.Properties.Resources.resources
+C:\Users\Mateo\Google Drive\UAI\FRECICAR APP\APP\Vista\obj\Debug\Vista.Seguridad.FormCambiarClave.resources
+C:\Users\Mateo\Google Drive\UAI\FRECICAR APP\APP\Vista\obj\Debug\Vista.Seguridad.FormConfigurarMail.resources
+C:\Users\Mateo\Google Drive\UAI\FRECICAR APP\APP\Vista\obj\Debug\Vista.Seguridad.FormGrupo.resources
+C:\Users\Mateo\Google Drive\UAI\FRECICAR APP\APP\Vista\obj\Debug\Vista.Seguridad.FormGruposUsuario.resources
+C:\Users\Mateo\Google Drive\UAI\FRECICAR APP\APP\Vista\obj\Debug\Vista.Seguridad.FormLogin.resources
+C:\Users\Mateo\Google Drive\UAI\FRECICAR APP\APP\Vista\obj\Debug\Vista.Seguridad.FormPerfil.resources
+C:\Users\Mateo\Google Drive\UAI\FRECICAR APP\APP\Vista\obj\Debug\Vista.Seguridad.FormSeguridad.resources
+C:\Users\Mateo\Google Drive\UAI\FRECICAR APP\APP\Vista\obj\Debug\Vista.Seguridad.FormUsuario.resources
+C:\Users\Mateo\Google Drive\UAI\FRECICAR APP\APP\Vista\obj\Debug\Vista.csproj.GenerateResource.cache
+C:\Users\Mateo\Google Drive\UAI\FRECICAR APP\APP\Vista\obj\Debug\Vista.csproj.CoreCompileInputs.cache
+C:\Users\Mateo\Google Drive\UAI\FRECICAR APP\APP\Vista\obj\Debug\Vista.csproj.CopyComplete
+C:\Users\Mateo\Google Drive\UAI\FRECICAR APP\APP\Vista\obj\Debug\Vista.exe
+C:\Users\Mateo\Google Drive\UAI\FRECICAR APP\APP\Vista\obj\Debug\Vista.pdb

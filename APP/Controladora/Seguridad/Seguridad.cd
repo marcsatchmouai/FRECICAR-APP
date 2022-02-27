@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Controladora.Seguridad.ControladoraCasoDeUsoCambiarClave" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="3" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAEAAAAAgAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Seguridad\ControladoraCasoDeUsoCambiarClave.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Controladora.Seguridad.ControladoraCasoDeUsoCerrarSesion" Collapsed="true">
+    <Position X="0.5" Y="1.25" Width="3" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAEAA=</HashCode>
+      <FileName>Seguridad\ControladoraCasoDeUsoCerrarSesion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Controladora.Seguridad.ControladoraCasoDeUsoConfigurarMail" Collapsed="true">
+    <Position X="0.5" Y="2" Width="3" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Properties" Collapsed="true" />
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>ACAAAAAECAAAAgAAAAAAAIAAAAAAgAEAAAAAAAAgEAA=</HashCode>
+      <FileName>Seguridad\ControladoraCasoDeUsoConfigurarMail.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Controladora.Seguridad.ControladoraCasoDeUsoGestionarGrupos" Collapsed="true">
+    <Position X="0.5" Y="2.75" Width="3" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Methods" Collapsed="true" />
+      <Compartment Name="Events" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>ACAQAAAAAAAAAAAAIAAAAEAAAAAAAAEAAQAACAAAEAE=</HashCode>
+      <FileName>Seguridad\ControladoraCasoDeUsoGestionarGrupos.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Controladora.Seguridad.ControladoraCasoDeUsoGestionarPerfiles" Collapsed="true">
+    <Position X="0.5" Y="4.25" Width="3" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Methods" Collapsed="true" />
+      <Compartment Name="Events" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>kCAAACAAgBAIAAAAAAAQAEgAAAEAAQAAAAAAAAAAEAA=</HashCode>
+      <FileName>Seguridad\ControladoraCasoDeUsoGestionarPerfiles.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Controladora.Seguridad.ControladoraCasoDeUsoGestionarUsuarios" Collapsed="true">
+    <Position X="0.5" Y="5" Width="3" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Events" Collapsed="true" />
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAAAAIgAAIIAAAEgAAAAABAAAAAAEAAAIEAA=</HashCode>
+      <FileName>Seguridad\ControladoraCasoDeUsoGestionarUsuarios.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Controladora.Seguridad.ControladoraCasoDeUsoIniciarSesion" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="3" />
+    <Compartments>
+      <Compartment Name="Events" Collapsed="true" />
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <NestedTypes>
+      <Delegate Name="Controladora.Seguridad.ControladoraCasoDeUsoIniciarSesion.ActualizarCambios" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Seguridad\ControladoraCasoDeUsoIniciarSesion.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAAAAAAABAAAAAEAAAAAAAAAAEgAAAAAAEAA=</HashCode>
+      <FileName>Seguridad\ControladoraCasoDeUsoIniciarSesion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

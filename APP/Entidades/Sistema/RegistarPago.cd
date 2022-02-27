@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Entidades.Sistema.Cliente">
+    <Position X="4.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAUAAoASgAAAAEkAAAAAgBAAECAAAAAAAAAgAAAAg=</HashCode>
+      <FileName>Sistema\Cliente.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Entidades.Sistema.Venta">
+    <Position X="8.75" Y="0.5" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="Entidades.Sistema.Venta.EstadoVenta" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Sistema\Venta.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>QQIAgAAAAQAAAAEMAACASAACIAiYQAEEAAAAAAAAAQg=</HashCode>
+      <FileName>Sistema\Venta.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="_Cliente" />
+    </ShowAsAssociation>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Entidades.Sistema.Movimiento">
+    <Position X="2.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAEcAIEAAAAAAAAAAAEAAAAAAAIAAAA=</HashCode>
+      <FileName>Sistema\Movimiento.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Detalle" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Entidades.Sistema.Pago">
+    <Position X="1.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAkAAAAQAAAhEUAAGAAAAAAAgAAAEIAAAAAAAAAAA=</HashCode>
+      <FileName>Sistema\Pago.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="_Cliente" />
+      <Property Name="Venta" />
+    </ShowAsAssociation>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Entidades.Sistema.CuentaCorriente">
+    <Position X="6.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAABAQQAgAAAAACAAAAAAAgAAAAAAAIIAAAAAgA=</HashCode>
+      <FileName>Sistema\CuentaCorriente.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="_Cliente" />
+    </ShowAsAssociation>
+    <ShowAsCollectionAssociation>
+      <Field Name="_Movimientos" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Interface Name="Entidades.IDetalle">
+    <Position X="1" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IDetalle.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

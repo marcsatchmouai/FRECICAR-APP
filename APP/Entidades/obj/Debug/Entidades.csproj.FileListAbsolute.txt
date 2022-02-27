@@ -1,0 +1,174 @@
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Entidades\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Entidades\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Entidades\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Entidades\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Entidades\bin\Debug\Entidades.dll
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Entidades\bin\Debug\Entidades.pdb
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Entidades\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Entidades\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Entidades\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Entidades\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Entidades\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Entidades\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Entidades\bin\Debug\EnvDTE.dll
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Entidades\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Entidades\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Entidades\bin\Debug\stdole.dll
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Entidades\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Entidades\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Entidades\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Entidades\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Entidades\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Entidades\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Entidades\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Entidades\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Entidades\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Entidades\bin\Debug\EnvDTE80.dll
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Entidades\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Entidades\bin\Debug\VSLangProj.dll
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Entidades\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Entidades\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Entidades\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Entidades\bin\Debug\VSLangProj80.dll
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Entidades\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Entidades\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Entidades\bin\Debug\Newtonsoft.Json.dll
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Entidades\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Entidades\bin\Debug\Microsoft.MSXML.dll
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Entidades\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Entidades\bin\Debug\VSLangProj2.dll
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Entidades\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Entidades\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Entidades\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Entidades\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Entidades\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Entidades\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Entidades\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Entidades\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Entidades\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Entidades\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Entidades\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Entidades\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Entidades\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Entidades\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Entidades\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Entidades\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Entidades\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Entidades\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Entidades\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Entidades\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Entidades\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Entidades\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Entidades\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Entidades\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Entidades\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Entidades\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Entidades\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Entidades\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Entidades\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Entidades\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Entidades\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Entidades\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Entidades\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Entidades\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Entidades\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Entidades\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Entidades\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Entidades\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Entidades\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Entidades\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Entidades\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Entidades\bin\Debug\es\Microsoft.VisualStudio.Data.Services.resources.dll
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Entidades\bin\Debug\es\Microsoft.VisualStudio.Data.Core.resources.dll
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Entidades\obj\Debug\Entidades.csproj.CopyComplete
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Entidades\obj\Debug\Entidades.dll
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Entidades\obj\Debug\Entidades.pdb
+D:\Program Files (x86)\Proyecto\TrabajoFinal\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Entidades\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Entidades\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Entidades\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Entidades\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Entidades\bin\Debug\Entidades.dll
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Entidades\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Entidades\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Entidades\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Entidades\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Entidades\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Entidades\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Entidades\bin\Debug\EnvDTE.dll
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Entidades\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Entidades\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Entidades\bin\Debug\stdole.dll
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Entidades\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Entidades\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Entidades\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Entidades\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Entidades\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Entidades\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Entidades\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Entidades\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Entidades\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Entidades\bin\Debug\EnvDTE80.dll
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Entidades\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Entidades\bin\Debug\VSLangProj.dll
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Entidades\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Entidades\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Entidades\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Entidades\bin\Debug\VSLangProj80.dll
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Entidades\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Entidades\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Entidades\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Entidades\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Entidades\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Entidades\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Entidades\bin\Debug\VSLangProj2.dll
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Entidades\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Entidades\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Entidades\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Entidades\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Entidades\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Entidades\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Entidades\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Entidades\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Entidades\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Entidades\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Entidades\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Entidades\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Entidades\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Entidades\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Entidades\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Entidades\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Entidades\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Entidades\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Entidades\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Entidades\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Entidades\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Entidades\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Entidades\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Entidades\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Entidades\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Entidades\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Entidades\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Entidades\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Entidades\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Entidades\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Entidades\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Entidades\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Entidades\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Entidades\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Entidades\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Entidades\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Entidades\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Entidades\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Entidades\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Entidades\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Entidades\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Entidades\bin\Debug\es\Microsoft.VisualStudio.Data.Services.resources.dll
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Entidades\bin\Debug\es\Microsoft.VisualStudio.Data.Core.resources.dll
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Entidades\obj\Debug\Entidades.csproj.CopyComplete
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Entidades\obj\Debug\Entidades.dll
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Entidades\obj\Debug\Entidades.pdb

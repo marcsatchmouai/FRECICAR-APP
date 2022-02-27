@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Entidades.Seguridad.Usuario">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAARAAABAGAABAAEAABAQAAAIAEAgxEgAYAAAAAAEAA=</HashCode>
+      <FileName>Seguridad\Usuario.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Property Name="Grupos" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="Entidades.Seguridad.Permiso">
+    <Position X="11" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAgAABAAAAAAAEAAAAAAAAAAA=</HashCode>
+      <FileName>Seguridad\Permiso.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Entidades.Seguridad.Perfil">
+    <Position X="3.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQBAAAAAAAAAIAAEABAAgAAAAAAAQAAACAAAAAAACA=</HashCode>
+      <FileName>Seguridad\Perfil.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Grupo" />
+    </ShowAsAssociation>
+    <ShowAsCollectionAssociation>
+      <Property Name="Formularios" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="Entidades.Seguridad.Grupo" Collapsed="true">
+    <Position X="3.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAgAABAAAAAAAEAAAAAAAAAAA=</HashCode>
+      <FileName>Seguridad\Grupo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Entidades.Seguridad.Formulario">
+    <Position X="7.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAggABAAAAAACEAEAAAAAAAAo=</HashCode>
+      <FileName>Seguridad\Formulario.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Property Name="Permisos" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="Entidades.Seguridad.Memento.MementoPerfil">
+    <Position X="8.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAA=</HashCode>
+      <FileName>Seguridad\Memento\MementoPerfil.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Entidades.Seguridad.Memento.CaretakerPerfil">
+    <Position X="7.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAA=</HashCode>
+      <FileName>Seguridad\Memento\CaretakerPerfil.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="Entidades.Seguridad.TipoAutenticacion">
+    <Position X="3.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACABAAAEAAAAIAAAAAAAAAAAAAAQAAAAAAAABAA=</HashCode>
+      <FileName>Seguridad\TipoAutenticacion.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

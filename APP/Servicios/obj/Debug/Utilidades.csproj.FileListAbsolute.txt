@@ -1,0 +1,92 @@
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Servicios\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Servicios\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Servicios\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Servicios\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Servicios\bin\Debug\Utilidades.dll
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Servicios\bin\Debug\Utilidades.pdb
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Servicios\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Servicios\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Servicios\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Servicios\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Servicios\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Servicios\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Servicios\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Servicios\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Servicios\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Servicios\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Servicios\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Servicios\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Servicios\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Servicios\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Servicios\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Servicios\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Servicios\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Servicios\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Servicios\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Servicios\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Servicios\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Servicios\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Servicios\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Servicios\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Servicios\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Servicios\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Servicios\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Servicios\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Servicios\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Servicios\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Servicios\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Servicios\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Servicios\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Servicios\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Servicios\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Servicios\obj\Debug\Utilidades.csprojAssemblyReference.cache
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Servicios\obj\Debug\Utilidades.csproj.CoreCompileInputs.cache
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Servicios\obj\Debug\Utilidades.csproj.CopyComplete
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Servicios\obj\Debug\Utilidades.dll
+C:\Users\Mateo\Google Drive\UAI\#03 - TERCERO\DIPLOMA\FRECICAR\Backups\BK - Software\TrabajoFinal\Servicios\obj\Debug\Utilidades.pdb
+C:\Users\Mateo\Google Drive\UAI\FRECICAR APP\APP\Servicios\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Mateo\Google Drive\UAI\FRECICAR APP\APP\Servicios\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Mateo\Google Drive\UAI\FRECICAR APP\APP\Servicios\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Mateo\Google Drive\UAI\FRECICAR APP\APP\Servicios\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Mateo\Google Drive\UAI\FRECICAR APP\APP\Servicios\bin\Debug\Utilidades.dll
+C:\Users\Mateo\Google Drive\UAI\FRECICAR APP\APP\Servicios\bin\Debug\Utilidades.pdb
+C:\Users\Mateo\Google Drive\UAI\FRECICAR APP\APP\Servicios\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Mateo\Google Drive\UAI\FRECICAR APP\APP\Servicios\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Mateo\Google Drive\UAI\FRECICAR APP\APP\Servicios\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Mateo\Google Drive\UAI\FRECICAR APP\APP\Servicios\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Mateo\Google Drive\UAI\FRECICAR APP\APP\Servicios\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Mateo\Google Drive\UAI\FRECICAR APP\APP\Servicios\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Mateo\Google Drive\UAI\FRECICAR APP\APP\Servicios\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Mateo\Google Drive\UAI\FRECICAR APP\APP\Servicios\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Mateo\Google Drive\UAI\FRECICAR APP\APP\Servicios\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Mateo\Google Drive\UAI\FRECICAR APP\APP\Servicios\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Mateo\Google Drive\UAI\FRECICAR APP\APP\Servicios\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Mateo\Google Drive\UAI\FRECICAR APP\APP\Servicios\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Mateo\Google Drive\UAI\FRECICAR APP\APP\Servicios\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Mateo\Google Drive\UAI\FRECICAR APP\APP\Servicios\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Mateo\Google Drive\UAI\FRECICAR APP\APP\Servicios\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Mateo\Google Drive\UAI\FRECICAR APP\APP\Servicios\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Mateo\Google Drive\UAI\FRECICAR APP\APP\Servicios\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Mateo\Google Drive\UAI\FRECICAR APP\APP\Servicios\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Mateo\Google Drive\UAI\FRECICAR APP\APP\Servicios\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Mateo\Google Drive\UAI\FRECICAR APP\APP\Servicios\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Mateo\Google Drive\UAI\FRECICAR APP\APP\Servicios\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Mateo\Google Drive\UAI\FRECICAR APP\APP\Servicios\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Mateo\Google Drive\UAI\FRECICAR APP\APP\Servicios\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Mateo\Google Drive\UAI\FRECICAR APP\APP\Servicios\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Mateo\Google Drive\UAI\FRECICAR APP\APP\Servicios\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Mateo\Google Drive\UAI\FRECICAR APP\APP\Servicios\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Mateo\Google Drive\UAI\FRECICAR APP\APP\Servicios\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Mateo\Google Drive\UAI\FRECICAR APP\APP\Servicios\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Mateo\Google Drive\UAI\FRECICAR APP\APP\Servicios\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Mateo\Google Drive\UAI\FRECICAR APP\APP\Servicios\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Mateo\Google Drive\UAI\FRECICAR APP\APP\Servicios\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Mateo\Google Drive\UAI\FRECICAR APP\APP\Servicios\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Mateo\Google Drive\UAI\FRECICAR APP\APP\Servicios\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Mateo\Google Drive\UAI\FRECICAR APP\APP\Servicios\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Mateo\Google Drive\UAI\FRECICAR APP\APP\Servicios\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Mateo\Google Drive\UAI\FRECICAR APP\APP\Servicios\obj\Debug\Utilidades.csprojAssemblyReference.cache
+C:\Users\Mateo\Google Drive\UAI\FRECICAR APP\APP\Servicios\obj\Debug\Utilidades.csproj.CoreCompileInputs.cache
+C:\Users\Mateo\Google Drive\UAI\FRECICAR APP\APP\Servicios\obj\Debug\Utilidades.csproj.CopyComplete
+C:\Users\Mateo\Google Drive\UAI\FRECICAR APP\APP\Servicios\obj\Debug\Utilidades.dll
+C:\Users\Mateo\Google Drive\UAI\FRECICAR APP\APP\Servicios\obj\Debug\Utilidades.pdb

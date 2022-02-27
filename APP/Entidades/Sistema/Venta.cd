@@ -1,0 +1,128 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Entidades.Sistema.Cliente">
+    <Position X="4.5" Y="2.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AIAAAAAIACgAAAAEkAAAAAABAAECAAAAAAAAAgAAAAg=</HashCode>
+      <FileName>Sistema\Cliente.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="_SituacionFiscal" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Entidades.Sistema.DetalleVenta">
+    <Position X="4.5" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAUAAAAAAAAAYAAAAAAAAgAAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>Sistema\DetalleVenta.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="_Producto" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Entidades.Sistema.FormadePago">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAgAABAAAAAAAEAAAAAAAAAAA=</HashCode>
+      <FileName>Sistema\FormadePago.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Entidades.Sistema.Venta">
+    <Position X="2.5" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="Entidades.Sistema.Venta.EstadoVenta" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Sistema\Venta.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>QQIAAAAAAAAAAAEAAACASAACIAiYQAEEAAAAAAAAAQg=</HashCode>
+      <FileName>Sistema\Venta.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="_Cliente" />
+      <Field Name="_FormadePago" />
+      <Field Name="_Envio" />
+    </ShowAsAssociation>
+    <ShowAsCollectionAssociation>
+      <Field Name="_DetallesVentas" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="Entidades.Sistema.Producto">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>IAAAEAAAAQAAAAAkAAAAAAARAAAAAgAEAAAgAAAAAgA=</HashCode>
+      <FileName>Sistema\Producto.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="_Categoria" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Entidades.Sistema.CategoriaProducto">
+    <Position X="8.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAgAABAAAAAAAEAAAAAAAAAAA=</HashCode>
+      <FileName>Sistema\CategoriaProducto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Entidades.Sistema.Envio">
+    <Position X="0.5" Y="2.75" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="Entidades.Sistema.Envio.Estado" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Sistema\Envio.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAQAAABAEAAAAAAABAAAAAAAEAAAAAAABAAA=</HashCode>
+      <FileName>Sistema\Envio.cs</FileName>
+      <NewMemberFileName>Sistema\FormadeEnvio.cs</NewMemberFileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Entidades.Sistema.SituacionFiscal">
+    <Position X="2.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAQAAAAAAAAAAAAABAAAAAAAEAAAAAAAAAAA=</HashCode>
+      <FileName>Sistema\SituacionFiscal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Entidades.Sistema.EnvioEmpresa">
+    <Position X="2" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAABAA=</HashCode>
+      <FileName>Sistema\EnvioEmpresa.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Entidades.Sistema.EnvioTerciarizado">
+    <Position X="3.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgBAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAABAA=</HashCode>
+      <FileName>Sistema\EnvioTerciarizado.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Entidades.Sistema.SinEnvio">
+    <Position X="0.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAQA=</HashCode>
+      <FileName>Sistema\SinEnvio.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

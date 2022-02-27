@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Entidades.Sistema.Categoria">
+    <Position X="9.25" Y="1.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAgAABAAAAAAAEAAAAAAAAAAA=</HashCode>
+      <FileName>Sistema\Categoria.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Entidades.Sistema.DetalledeOrdenCompra">
+    <Position X="2.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAUAAAAAAAAAIAAAIgAAAAAAAAAAACAAAAAAAhA=</HashCode>
+      <FileName>Sistema\DetalledeOrdenCompra.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="_MateriaPrima" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Entidades.Sistema.DetalledeRemitoProveedor">
+    <Position X="5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAUAAAAAAAAAIAAAAAAAAAAAAAAAACAAAAAAAhA=</HashCode>
+      <FileName>Sistema\DetalledeRemitoProveedor.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="_MateriaPrima" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Entidades.Sistema.FormadeEnvio">
+    <Position X="6.75" Y="3.25" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAgAABAAAAAAAEAAAAAAAAAAA=</HashCode>
+      <FileName>Sistema\FormadeEnvio.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Entidades.Sistema.FormadePago">
+    <Position X="5" Y="3.25" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAgAABAAAAAAAEAAAAAAAAAAA=</HashCode>
+      <FileName>Sistema\FormadePago.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Entidades.Sistema.MateriaPrima" Collapsed="true">
+    <Position X="7" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>IAAAEAEAAQAAAAAkAAAAAAABAAAAAwAMAAAgAAAAggA=</HashCode>
+      <FileName>Sistema\MateriaPrima.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="_Categoria" />
+      <Field Name="_Proveedor" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Entidades.Sistema.OrdenCompra">
+    <Position X="0.5" Y="3.25" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>gQIAEAAAAQAAAAEAAAAAQgADAAAUUAEMAAAAAAAAAQg=</HashCode>
+      <FileName>Sistema\OrdenCompra.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="_FormadePago" />
+      <Field Name="_Proveedor" />
+      <Field Name="_FormadeEnvio" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Entidades.Sistema.Proveedor">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AIBAQAAgACgAAAAEAAAAAAABAAEAAAAAAACAAgAACAg=</HashCode>
+      <FileName>Sistema\Proveedor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Entidades.Sistema.RemitoProveedor">
+    <Position X="2.75" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAEAAACQAAAQEAQAAAQAADAAAQQBEIAAAAAAAAAAA=</HashCode>
+      <FileName>Sistema\RemitoProveedor.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="_Proveedor" />
+    </ShowAsAssociation>
+    <ShowAsCollectionAssociation>
+      <Field Name="_DetalleRemitoProveedor" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

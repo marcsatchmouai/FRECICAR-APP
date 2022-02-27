@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Modelo.Seguridad.RepositorioFormularios">
+    <Position X="8" Y="0.5" Width="2" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAACAAAAAAEAA=</HashCode>
+      <FileName>Seguridad\RepositorioFormularios.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Modelo.Seguridad.RepositorioPermisos">
+    <Position X="10.25" Y="0.5" Width="2" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAEAAAAAAEAA=</HashCode>
+      <FileName>Seguridad\RepositorioPermisos.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Modelo.Seguridad.RepositorioGrupos">
+    <Position X="2.75" Y="0.5" Width="2" />
+    <Compartments>
+      <Compartment Name="Events" Collapsed="true" />
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>ACAQAAAAAAAABAAAAAAAAAAAAAAAAAMAAQAACAAAECA=</HashCode>
+      <FileName>Seguridad\RepositorioGrupos.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Modelo.Seguridad.RepositorioUsuarios">
+    <Position X="0.5" Y="0.5" Width="2" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Events" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>ACAAAEABAAAAIgAAIIAAAAAAAAAAAAAAAAAEEAAIEAA=</HashCode>
+      <FileName>Seguridad\RepositorioUsuarios.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Modelo.Seguridad.RepositorioPerfiles">
+    <Position X="5" Y="0.5" Width="2.75" />
+    <Compartments>
+      <Compartment Name="Events" Collapsed="true" />
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>kCAAAAABABBIAAAAAAAQAABAgAAAAAAAAAAAAIAAEAA=</HashCode>
+      <FileName>Seguridad\RepositorioPerfiles.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Modelo.Seguridad.Facade">
+    <Position X="8.25" Y="2.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>ICAAACgQAARAAAAACAAAAgAAAAAAAAAAAAAAAAAAEAA=</HashCode>
+      <FileName>Seguridad\Facade.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
