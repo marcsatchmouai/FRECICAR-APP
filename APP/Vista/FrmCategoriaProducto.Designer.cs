@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(FrmCategoriaProducto));
             this.BTNCancelar = new System.Windows.Forms.Button();
             this.BTNAceptar = new System.Windows.Forms.Button();
             this.label2 = new System.Windows.Forms.Label();
@@ -110,6 +111,7 @@
             this.Controls.Add(this.label1);
             this.Controls.Add(this.TXTDescripcion);
             this.Controls.Add(this.TXTNombre);
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "FrmCategoriaProducto";
             this.Text = "CategoriaProducto";
             this.ResumeLayout(false);

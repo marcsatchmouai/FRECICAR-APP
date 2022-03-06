@@ -93,5 +93,10 @@ namespace Vista
             FrmDetallesVentas oFrmDVentas = new FrmDetallesVentas(oVenta);
             oFrmDVentas.ShowDialog();
         }
+
+        private void BTNImprimir_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

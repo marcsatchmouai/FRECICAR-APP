@@ -30,6 +30,7 @@
         {
             this.components = new System.ComponentModel.Container();
             Microsoft.Reporting.WinForms.ReportDataSource reportDataSource1 = new Microsoft.Reporting.WinForms.ReportDataSource();
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(FrmReporteOrden));
             this.reportViewer2 = new Microsoft.Reporting.WinForms.ReportViewer();
             this.OrdenCompraBindingSource = new System.Windows.Forms.BindingSource(this.components);
             ((System.ComponentModel.ISupportInitialize)(this.OrdenCompraBindingSource)).BeginInit();
@@ -44,6 +45,7 @@
             this.reportViewer2.LocalReport.ReportEmbeddedResource = "Vista.ReporteOrdenCompra.rdlc";
             this.reportViewer2.Location = new System.Drawing.Point(0, 0);
             this.reportViewer2.Name = "reportViewer2";
+            this.reportViewer2.ServerReport.BearerToken = null;
             this.reportViewer2.Size = new System.Drawing.Size(960, 422);
             this.reportViewer2.TabIndex = 0;
             // 
@@ -53,6 +55,7 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(960, 422);
             this.Controls.Add(this.reportViewer2);
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "FrmReporteOrden";
             this.Text = "Reporte Orden Compra";
             this.Load += new System.EventHandler(this.FrmReporteOrden_Load);

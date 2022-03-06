@@ -29,6 +29,7 @@
         private void InitializeComponent()
         {
             this.components = new System.ComponentModel.Container();
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(OrdenesCompras));
             this.GrillaOrdenesCompras = new System.Windows.Forms.DataGridView();
             this.Codigo = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.Estado = new System.Windows.Forms.DataGridViewTextBoxColumn();
@@ -262,6 +263,7 @@
             this.Controls.Add(this.GrillaOrdenesCompras);
             this.Controls.Add(this.BTNCancelar);
             this.Controls.Add(this.BTNAnular);
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "OrdenesCompras";
             this.Text = "OrdenesCompras";
             this.Load += new System.EventHandler(this.FrmOrdenesCompras_Load);

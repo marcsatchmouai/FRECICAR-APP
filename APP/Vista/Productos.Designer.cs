@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Productos));
             this.BTNAgregar = new System.Windows.Forms.Button();
             this.BTNModificar = new System.Windows.Forms.Button();
             this.BTNEliminar = new System.Windows.Forms.Button();
@@ -169,6 +170,7 @@
             this.Controls.Add(this.BTNEliminar);
             this.Controls.Add(this.BTNModificar);
             this.Controls.Add(this.BTNAgregar);
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "Productos";
             this.Text = "Productos";
             ((System.ComponentModel.ISupportInitialize)(this.DGVProducto)).EndInit();

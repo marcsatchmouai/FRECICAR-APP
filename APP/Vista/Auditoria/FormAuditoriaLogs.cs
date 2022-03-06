@@ -10,6 +10,7 @@ namespace Vista.Auditoria
         public FormAuditoriaLogs()
         {
             InitializeComponent();
+            InitializeComponentAudit();
             this.bsAuditoriaIngresosEgresos = new BindingSource();
             this.CargarGrilla();
         }
@@ -49,6 +50,20 @@ namespace Vista.Auditoria
                     }
                 }
             }
+        }
+
+        private void InitializeComponent()
+        {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(FormAuditoriaLogs));
+            this.SuspendLayout();
+            // 
+            // FormAuditoriaLogs
+            // 
+            this.ClientSize = new System.Drawing.Size(284, 261);
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
+            this.Name = "FormAuditoriaLogs";
+            this.ResumeLayout(false);
+
         }
     }
 }

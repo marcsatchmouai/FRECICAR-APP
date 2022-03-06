@@ -316,6 +316,7 @@
             this.Controls.Add(this.MTXTCantidad);
             this.Controls.Add(this.GrillaDetalleOrden);
             this.Controls.Add(this.label4);
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "RealizarRemito";
             this.Text = "Remito";
             this.Load += new System.EventHandler(this.FrmRemitoProveedor_Load);

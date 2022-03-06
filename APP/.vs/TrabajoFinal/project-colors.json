@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "51c6e3ee-ebdf-4c3b-b5f1-0b29da41f9e6": {
+      "ProjectGuid": "51c6e3ee-ebdf-4c3b-b5f1-0b29da41f9e6",
+      "DisplayName": "Vista",
+      "ColorIndex": 0
+    },
+    "31926861-09f0-4a31-8fda-1280de308e17": {
+      "ProjectGuid": "31926861-09f0-4a31-8fda-1280de308e17",
+      "DisplayName": "Controladora",
+      "ColorIndex": 1
+    },
+    "8830cfca-ba9b-4a28-917d-5f65bbdab57a": {
+      "ProjectGuid": "8830cfca-ba9b-4a28-917d-5f65bbdab57a",
+      "DisplayName": "Entidades",
+      "ColorIndex": 2
+    },
+    "9853a0cc-b836-491a-91d9-5bbcd6f21ebc": {
+      "ProjectGuid": "9853a0cc-b836-491a-91d9-5bbcd6f21ebc",
+      "DisplayName": "Utilidades",
+      "ColorIndex": 3
+    },
+    "82f41cae-9a75-4261-afff-9e2b90a94cf6": {
+      "ProjectGuid": "82f41cae-9a75-4261-afff-9e2b90a94cf6",
+      "DisplayName": "Acceso a Datos",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

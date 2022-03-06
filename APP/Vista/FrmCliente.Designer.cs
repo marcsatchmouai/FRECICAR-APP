@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(FrmCliente));
             this.TXTRSocial = new System.Windows.Forms.TextBox();
             this.TXTDomicilio = new System.Windows.Forms.TextBox();
             this.TXTEmail = new System.Windows.Forms.TextBox();
@@ -232,6 +233,7 @@
             this.Controls.Add(this.TXTEmail);
             this.Controls.Add(this.TXTDomicilio);
             this.Controls.Add(this.TXTRSocial);
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "FrmCliente";
             this.Text = "Cliente";
             this.Load += new System.EventHandler(this.FrmCliente_Load);

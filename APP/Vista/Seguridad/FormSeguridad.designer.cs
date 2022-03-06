@@ -28,8 +28,11 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(FormSeguridad));
             this.tabPerfiles = new System.Windows.Forms.TabPage();
+            this.lblFiltradoPerfiles = new System.Windows.Forms.Label();
             this.lblPermisosFormulario = new System.Windows.Forms.Label();
+            this.txtFiltradoPerfiles = new System.Windows.Forms.TextBox();
             this.lblFormulariosGrupo = new System.Windows.Forms.Label();
             this.lblPerfilGrupo = new System.Windows.Forms.Label();
             this.btnModificarPerfil = new System.Windows.Forms.Button();
@@ -38,19 +41,20 @@
             this.listBoxGrupos = new System.Windows.Forms.ListBox();
             this.listBoxFormularios = new System.Windows.Forms.ListBox();
             this.listBoxPermisos = new System.Windows.Forms.ListBox();
-            this.txtFiltradoPerfiles = new System.Windows.Forms.TextBox();
             this.tabGrupos = new System.Windows.Forms.TabPage();
+            this.lblFiltradoGrupos = new System.Windows.Forms.Label();
             this.btnModificarGrupo = new System.Windows.Forms.Button();
+            this.txtFiltradoGrupos = new System.Windows.Forms.TextBox();
             this.btnEliminarGrupo = new System.Windows.Forms.Button();
             this.btnConsultarGrupo = new System.Windows.Forms.Button();
             this.btnAgregarGrupo = new System.Windows.Forms.Button();
             this.dgvGrupos = new System.Windows.Forms.DataGridView();
             this.dataGridViewTextBoxColumn1 = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.dataGridViewTextBoxColumn2 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.lblFiltradoGrupos = new System.Windows.Forms.Label();
-            this.txtFiltradoGrupos = new System.Windows.Forms.TextBox();
             this.tabUsuarios = new System.Windows.Forms.TabPage();
+            this.lblUsuarioNombreApellido = new System.Windows.Forms.Label();
             this.btnResetearClave = new System.Windows.Forms.Button();
+            this.txtFiltradoUsuarios = new System.Windows.Forms.TextBox();
             this.btnGruposUsuarios = new System.Windows.Forms.Button();
             this.btnModificarUsuario = new System.Windows.Forms.Button();
             this.btnEliminarUsuario = new System.Windows.Forms.Button();
@@ -62,10 +66,7 @@
             this.colMail = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.Habilitado = new System.Windows.Forms.DataGridViewCheckBoxColumn();
             this.Activo = new System.Windows.Forms.DataGridViewCheckBoxColumn();
-            this.lblUsuarioNombreApellido = new System.Windows.Forms.Label();
-            this.txtFiltradoUsuarios = new System.Windows.Forms.TextBox();
             this.tabControlSeguridad = new System.Windows.Forms.TabControl();
-            this.lblFiltradoPerfiles = new System.Windows.Forms.Label();
             this.tabPerfiles.SuspendLayout();
             this.tabGrupos.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dgvGrupos)).BeginInit();
@@ -95,6 +96,15 @@
             this.tabPerfiles.Text = "Perfiles";
             this.tabPerfiles.UseVisualStyleBackColor = true;
             // 
+            // lblFiltradoPerfiles
+            // 
+            this.lblFiltradoPerfiles.AutoSize = true;
+            this.lblFiltradoPerfiles.Location = new System.Drawing.Point(6, 3);
+            this.lblFiltradoPerfiles.Name = "lblFiltradoPerfiles";
+            this.lblFiltradoPerfiles.Size = new System.Drawing.Size(358, 13);
+            this.lblFiltradoPerfiles.TabIndex = 1;
+            this.lblFiltradoPerfiles.Text = "Ingrese el nombre del grupo o el nombre del formulario o el tipo de permiso:";
+            // 
             // lblPermisosFormulario
             // 
             this.lblPermisosFormulario.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
@@ -104,6 +114,14 @@
             this.lblPermisosFormulario.Size = new System.Drawing.Size(162, 13);
             this.lblPermisosFormulario.TabIndex = 22;
             this.lblPermisosFormulario.Text = "Permisos asignados al formulario:";
+            // 
+            // txtFiltradoPerfiles
+            // 
+            this.txtFiltradoPerfiles.Location = new System.Drawing.Point(9, 19);
+            this.txtFiltradoPerfiles.Name = "txtFiltradoPerfiles";
+            this.txtFiltradoPerfiles.Size = new System.Drawing.Size(699, 20);
+            this.txtFiltradoPerfiles.TabIndex = 1;
+            this.txtFiltradoPerfiles.TextChanged += new System.EventHandler(this.txtFiltradoPerfiles_TextChanged);
             // 
             // lblFormulariosGrupo
             // 
@@ -186,14 +204,6 @@
             this.listBoxPermisos.Size = new System.Drawing.Size(225, 355);
             this.listBoxPermisos.TabIndex = 14;
             // 
-            // txtFiltradoPerfiles
-            // 
-            this.txtFiltradoPerfiles.Location = new System.Drawing.Point(9, 19);
-            this.txtFiltradoPerfiles.Name = "txtFiltradoPerfiles";
-            this.txtFiltradoPerfiles.Size = new System.Drawing.Size(699, 20);
-            this.txtFiltradoPerfiles.TabIndex = 1;
-            this.txtFiltradoPerfiles.TextChanged += new System.EventHandler(this.txtFiltradoPerfiles_TextChanged);
-            // 
             // tabGrupos
             // 
             this.tabGrupos.Controls.Add(this.lblFiltradoGrupos);
@@ -211,6 +221,15 @@
             this.tabGrupos.Text = "Grupos";
             this.tabGrupos.UseVisualStyleBackColor = true;
             // 
+            // lblFiltradoGrupos
+            // 
+            this.lblFiltradoGrupos.AutoSize = true;
+            this.lblFiltradoGrupos.Location = new System.Drawing.Point(6, 3);
+            this.lblFiltradoGrupos.Name = "lblFiltradoGrupos";
+            this.lblFiltradoGrupos.Size = new System.Drawing.Size(260, 13);
+            this.lblFiltradoGrupos.TabIndex = 1;
+            this.lblFiltradoGrupos.Text = "Ingrese el nombre del grupo o parte de la descripción:";
+            // 
             // btnModificarGrupo
             // 
             this.btnModificarGrupo.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
@@ -221,6 +240,16 @@
             this.btnModificarGrupo.Text = "&Modificar";
             this.btnModificarGrupo.UseVisualStyleBackColor = true;
             this.btnModificarGrupo.Click += new System.EventHandler(this.btnModificarGrupo_Click);
+            // 
+            // txtFiltradoGrupos
+            // 
+            this.txtFiltradoGrupos.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.txtFiltradoGrupos.Location = new System.Drawing.Point(9, 19);
+            this.txtFiltradoGrupos.Name = "txtFiltradoGrupos";
+            this.txtFiltradoGrupos.Size = new System.Drawing.Size(683, 20);
+            this.txtFiltradoGrupos.TabIndex = 1;
+            this.txtFiltradoGrupos.TextChanged += new System.EventHandler(this.txtFiltradoGrupos_TextChanged);
             // 
             // btnEliminarGrupo
             // 
@@ -294,25 +323,6 @@
             this.dataGridViewTextBoxColumn2.Name = "dataGridViewTextBoxColumn2";
             this.dataGridViewTextBoxColumn2.ReadOnly = true;
             // 
-            // lblFiltradoGrupos
-            // 
-            this.lblFiltradoGrupos.AutoSize = true;
-            this.lblFiltradoGrupos.Location = new System.Drawing.Point(6, 3);
-            this.lblFiltradoGrupos.Name = "lblFiltradoGrupos";
-            this.lblFiltradoGrupos.Size = new System.Drawing.Size(260, 13);
-            this.lblFiltradoGrupos.TabIndex = 1;
-            this.lblFiltradoGrupos.Text = "Ingrese el nombre del grupo o parte de la descripción:";
-            // 
-            // txtFiltradoGrupos
-            // 
-            this.txtFiltradoGrupos.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.txtFiltradoGrupos.Location = new System.Drawing.Point(9, 19);
-            this.txtFiltradoGrupos.Name = "txtFiltradoGrupos";
-            this.txtFiltradoGrupos.Size = new System.Drawing.Size(683, 20);
-            this.txtFiltradoGrupos.TabIndex = 1;
-            this.txtFiltradoGrupos.TextChanged += new System.EventHandler(this.txtFiltradoGrupos_TextChanged);
-            // 
             // tabUsuarios
             // 
             this.tabUsuarios.Controls.Add(this.lblUsuarioNombreApellido);
@@ -332,6 +342,15 @@
             this.tabUsuarios.Text = "Usuarios";
             this.tabUsuarios.UseVisualStyleBackColor = true;
             // 
+            // lblUsuarioNombreApellido
+            // 
+            this.lblUsuarioNombreApellido.AutoSize = true;
+            this.lblUsuarioNombreApellido.Location = new System.Drawing.Point(6, 7);
+            this.lblUsuarioNombreApellido.Name = "lblUsuarioNombreApellido";
+            this.lblUsuarioNombreApellido.Size = new System.Drawing.Size(240, 13);
+            this.lblUsuarioNombreApellido.TabIndex = 1;
+            this.lblUsuarioNombreApellido.Text = "Ingrese el nombre de usuario o nombre y apellido:";
+            // 
             // btnResetearClave
             // 
             this.btnResetearClave.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
@@ -342,6 +361,16 @@
             this.btnResetearClave.Text = "Resetear Clave";
             this.btnResetearClave.UseVisualStyleBackColor = true;
             this.btnResetearClave.Click += new System.EventHandler(this.btnResetearClave_Click);
+            // 
+            // txtFiltradoUsuarios
+            // 
+            this.txtFiltradoUsuarios.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.txtFiltradoUsuarios.Location = new System.Drawing.Point(9, 23);
+            this.txtFiltradoUsuarios.Name = "txtFiltradoUsuarios";
+            this.txtFiltradoUsuarios.Size = new System.Drawing.Size(684, 20);
+            this.txtFiltradoUsuarios.TabIndex = 1;
+            this.txtFiltradoUsuarios.TextChanged += new System.EventHandler(this.txtFiltradoUsuarios_TextChanged);
             // 
             // btnGruposUsuarios
             // 
@@ -472,25 +501,6 @@
             this.Activo.SortMode = System.Windows.Forms.DataGridViewColumnSortMode.Automatic;
             this.Activo.Width = 62;
             // 
-            // lblUsuarioNombreApellido
-            // 
-            this.lblUsuarioNombreApellido.AutoSize = true;
-            this.lblUsuarioNombreApellido.Location = new System.Drawing.Point(6, 7);
-            this.lblUsuarioNombreApellido.Name = "lblUsuarioNombreApellido";
-            this.lblUsuarioNombreApellido.Size = new System.Drawing.Size(240, 13);
-            this.lblUsuarioNombreApellido.TabIndex = 1;
-            this.lblUsuarioNombreApellido.Text = "Ingrese el nombre de usuario o nombre y apellido:";
-            // 
-            // txtFiltradoUsuarios
-            // 
-            this.txtFiltradoUsuarios.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.txtFiltradoUsuarios.Location = new System.Drawing.Point(9, 23);
-            this.txtFiltradoUsuarios.Name = "txtFiltradoUsuarios";
-            this.txtFiltradoUsuarios.Size = new System.Drawing.Size(684, 20);
-            this.txtFiltradoUsuarios.TabIndex = 1;
-            this.txtFiltradoUsuarios.TextChanged += new System.EventHandler(this.txtFiltradoUsuarios_TextChanged);
-            // 
             // tabControlSeguridad
             // 
             this.tabControlSeguridad.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
@@ -505,21 +515,13 @@
             this.tabControlSeguridad.Size = new System.Drawing.Size(815, 453);
             this.tabControlSeguridad.TabIndex = 0;
             // 
-            // lblFiltradoPerfiles
-            // 
-            this.lblFiltradoPerfiles.AutoSize = true;
-            this.lblFiltradoPerfiles.Location = new System.Drawing.Point(6, 3);
-            this.lblFiltradoPerfiles.Name = "lblFiltradoPerfiles";
-            this.lblFiltradoPerfiles.Size = new System.Drawing.Size(358, 13);
-            this.lblFiltradoPerfiles.TabIndex = 1;
-            this.lblFiltradoPerfiles.Text = "Ingrese el nombre del grupo o el nombre del formulario o el tipo de permiso:";
-            // 
             // FormSeguridad
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(839, 477);
             this.Controls.Add(this.tabControlSeguridad);
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "FormSeguridad";
             this.Text = "Seguridad";
             this.Load += new System.EventHandler(this.FormSeguridad_Load);

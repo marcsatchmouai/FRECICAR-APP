@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Clientes));
             this.label1 = new System.Windows.Forms.Label();
             this.TXTFiltro = new System.Windows.Forms.TextBox();
             this.GrillaClientes = new System.Windows.Forms.DataGridView();
@@ -151,6 +152,7 @@
             this.Controls.Add(this.BTNEliminar);
             this.Controls.Add(this.BTNModificar);
             this.Controls.Add(this.BTNAceptar);
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "Clientes";
             this.Text = "Clientes";
             ((System.ComponentModel.ISupportInitialize)(this.GrillaClientes)).EndInit();

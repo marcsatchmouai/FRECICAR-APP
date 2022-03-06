@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(FormaEnvios));
             this.GrillaFormadeEnvio = new System.Windows.Forms.DataGridView();
             this.Nombre = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.Descripcion = new System.Windows.Forms.DataGridViewTextBoxColumn();
@@ -153,6 +154,7 @@
             this.Controls.Add(this.BTNEliminar);
             this.Controls.Add(this.BTNModificar);
             this.Controls.Add(this.BTNAceptar);
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "FormaEnvios";
             this.Text = "FormaEnvios";
             ((System.ComponentModel.ISupportInitialize)(this.GrillaFormadeEnvio)).EndInit();

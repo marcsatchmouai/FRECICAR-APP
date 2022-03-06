@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(FrmProveedor));
             this.MTXTCuit = new System.Windows.Forms.MaskedTextBox();
             this.TXTCalle = new System.Windows.Forms.TextBox();
             this.TXTEmail = new System.Windows.Forms.TextBox();
@@ -198,6 +199,7 @@
             this.Controls.Add(this.TXTEmail);
             this.Controls.Add(this.TXTCalle);
             this.Controls.Add(this.MTXTCuit);
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "FrmProveedor";
             this.Text = "FrmProveedor";
             this.ResumeLayout(false);

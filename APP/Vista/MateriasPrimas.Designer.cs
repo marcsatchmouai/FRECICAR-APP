@@ -29,6 +29,7 @@
         private void InitializeComponent()
         {
             this.components = new System.ComponentModel.Container();
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(MateriasPrimas));
             this.GrillaMateriasPrimas = new System.Windows.Forms.DataGridView();
             this.Codigo = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.Descripcion = new System.Windows.Forms.DataGridViewTextBoxColumn();
@@ -208,6 +209,7 @@
             this.Controls.Add(this.BTNEliminar);
             this.Controls.Add(this.BTNModificar);
             this.Controls.Add(this.BTNAceptar);
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "MateriasPrimas";
             this.Text = "MateriaPrima";
             this.Load += new System.EventHandler(this.FrmMateriasPrimas_Load);

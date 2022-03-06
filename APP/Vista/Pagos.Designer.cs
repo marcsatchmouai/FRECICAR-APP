@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Pagos));
             this.BTNCancelar = new System.Windows.Forms.Button();
             this.DGVPagos = new System.Windows.Forms.DataGridView();
             this.TXTFiltro = new System.Windows.Forms.TextBox();
@@ -79,6 +80,7 @@
             this.Controls.Add(this.TXTFiltro);
             this.Controls.Add(this.DGVPagos);
             this.Controls.Add(this.BTNCancelar);
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "Pagos";
             this.Text = "Pagos";
             ((System.ComponentModel.ISupportInitialize)(this.DGVPagos)).EndInit();

@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Proveedores));
             this.GrillaProveedores = new System.Windows.Forms.DataGridView();
             this.Cuit = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.RazonSocial = new System.Windows.Forms.DataGridViewTextBoxColumn();
@@ -193,6 +194,7 @@
             this.Controls.Add(this.BTNEliminar);
             this.Controls.Add(this.BTNModificar);
             this.Controls.Add(this.BTNAceptar);
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "Proveedores";
             this.Text = "Proveedores";
             this.Load += new System.EventHandler(this.FrmProveedores_Load);

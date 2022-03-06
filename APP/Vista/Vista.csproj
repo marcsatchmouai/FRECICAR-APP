@@ -204,6 +204,9 @@
     <Compile Include="Productos.Designer.cs">
       <DependentUpon>Productos.cs</DependentUpon>
     </Compile>
+    <Compile Include="ProductosMasVendidos.cs">
+      <DependentUpon>ProductosMasVendidos.xsd</DependentUpon>
+    </Compile>
     <Compile Include="ProductosMasVendidos.Designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>

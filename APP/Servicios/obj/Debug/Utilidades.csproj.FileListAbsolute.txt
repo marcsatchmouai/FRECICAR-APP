@@ -85,8 +85,8 @@ C:\Users\Mateo\Google Drive\UAI\FRECICAR APP\APP\Servicios\bin\Debug\pt\Microsof
 C:\Users\Mateo\Google Drive\UAI\FRECICAR APP\APP\Servicios\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
 C:\Users\Mateo\Google Drive\UAI\FRECICAR APP\APP\Servicios\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
 C:\Users\Mateo\Google Drive\UAI\FRECICAR APP\APP\Servicios\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
-C:\Users\Mateo\Google Drive\UAI\FRECICAR APP\APP\Servicios\obj\Debug\Utilidades.csprojAssemblyReference.cache
 C:\Users\Mateo\Google Drive\UAI\FRECICAR APP\APP\Servicios\obj\Debug\Utilidades.csproj.CoreCompileInputs.cache
 C:\Users\Mateo\Google Drive\UAI\FRECICAR APP\APP\Servicios\obj\Debug\Utilidades.csproj.CopyComplete
 C:\Users\Mateo\Google Drive\UAI\FRECICAR APP\APP\Servicios\obj\Debug\Utilidades.dll
 C:\Users\Mateo\Google Drive\UAI\FRECICAR APP\APP\Servicios\obj\Debug\Utilidades.pdb
+C:\Users\Mateo\Google Drive\UAI\FRECICAR APP\APP\Servicios\obj\Debug\Utilidades.csproj.AssemblyReference.cache

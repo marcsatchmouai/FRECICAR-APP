@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(FrmCuentaCorriente));
             this.label1 = new System.Windows.Forms.Label();
             this.LBLSaldo = new System.Windows.Forms.Label();
             this.DGVMovimientos = new System.Windows.Forms.DataGridView();
@@ -250,6 +251,7 @@
             this.Controls.Add(this.DGVMovimientos);
             this.Controls.Add(this.LBLSaldo);
             this.Controls.Add(this.label1);
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "FrmCuentaCorriente";
             this.Text = "Cuenta Corriente";
             ((System.ComponentModel.ISupportInitialize)(this.DGVMovimientos)).EndInit();

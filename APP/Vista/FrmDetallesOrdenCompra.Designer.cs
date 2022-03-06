@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(FrmDetallesOrdenCompra));
             this.GrillaDetallesOrdenCompra = new System.Windows.Forms.DataGridView();
             this.MateriaPrima = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.Cantidad = new System.Windows.Forms.DataGridViewTextBoxColumn();
@@ -111,6 +112,7 @@
             this.ControlBox = false;
             this.Controls.Add(this.BTNCancelar);
             this.Controls.Add(this.GrillaDetallesOrdenCompra);
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "FrmDetallesOrdenCompra";
             this.Text = "Detalles OrdenesCompras";
             ((System.ComponentModel.ISupportInitialize)(this.GrillaDetallesOrdenCompra)).EndInit();

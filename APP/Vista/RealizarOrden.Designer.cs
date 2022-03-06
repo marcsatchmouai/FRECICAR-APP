@@ -369,6 +369,7 @@
             this.Controls.Add(this.label2);
             this.Controls.Add(this.CMBFormadeEnvio);
             this.Controls.Add(this.CMBFormadePago);
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "RealizarOrden";
             this.Text = "Orden de Compra";
             this.Load += new System.EventHandler(this.FrmOrdenCompra_Load);

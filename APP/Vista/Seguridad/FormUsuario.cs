@@ -26,7 +26,7 @@ namespace Vista.Seguridad
         {
             this.btnGuardar.Text = "Agregar";
             this.btnCancelar.Text = "Cancelar";
-        }
+                }
 
         private void PrepararFormularioModificar()
         {
@@ -49,6 +49,10 @@ namespace Vista.Seguridad
             this.gBoxUsuario.Text = "Consultar usuario:";
             this.btnCancelar.Text = "Salir";
             this.btnGuardar.Visible = false;
+            this.txtBoxNombreUsuario.Enabled = false;
+            this.txtNombreApellido.Enabled = false;
+            this.txtBoxEmail.Enabled = false;
+            this.chkBoxHabilitado.Enabled = false;
         }
 
         private void FormUsuario_Load(object sender, EventArgs e)
@@ -122,6 +126,13 @@ namespace Vista.Seguridad
                 MessageBox.Show("Ingrese el nombre de usuario.", "Atención", MessageBoxButtons.OK, MessageBoxIcon.Warning);
                 return false;
             }
+            if (this.txtBoxNombreUsuario.Text.Contains(" "))
+            {
+                this.txtBoxNombreUsuario.Focus();
+                MessageBox.Show("El nombre de usuario no puede contener un espacio en blanco", "Atención", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                return false;
+            }
+
             if (string.IsNullOrEmpty(this.txtNombreApellido.Text))
             {
                 this.txtNombreApellido.Focus();

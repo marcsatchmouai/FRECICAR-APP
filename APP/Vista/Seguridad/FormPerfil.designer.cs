@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(FormPerfil));
             this.comboBoxGrupos = new System.Windows.Forms.ComboBox();
             this.comboBoxFormularios = new System.Windows.Forms.ComboBox();
             this.comboBoxPermisos = new System.Windows.Forms.ComboBox();
@@ -218,6 +219,7 @@
             this.Controls.Add(this.comboBoxPermisos);
             this.Controls.Add(this.comboBoxFormularios);
             this.Controls.Add(this.comboBoxGrupos);
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "FormPerfil";
             this.Text = "FormPerfil";
             this.Load += new System.EventHandler(this.FormPerfil_Load);

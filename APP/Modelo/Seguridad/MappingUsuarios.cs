@@ -135,6 +135,8 @@ namespace Mapping.Seguridad
                     cmd.Parameters.Add("@Habilitado", System.Data.SqlDbType.Bit, 15).Value = usuario.Habilitado;
                     cmd.Parameters.Add("@Activo", System.Data.SqlDbType.Bit, 15).Value = usuario.Activo;
                 }
+
+                var exec = cmd.ExecuteNonQuery();
                 if (cmd.ExecuteNonQuery() >= 1) operacion = true;
                 else operacion = false;
                 conexion.RetornarSqlTransaccion().Commit();

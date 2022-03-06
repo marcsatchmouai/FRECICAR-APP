@@ -30,10 +30,16 @@
         {
             this.components = new System.ComponentModel.Container();
             Microsoft.Reporting.WinForms.ReportDataSource reportDataSource1 = new Microsoft.Reporting.WinForms.ReportDataSource();
-            this.reportViewer1 = new Microsoft.Reporting.WinForms.ReportViewer();
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(FrmReporteRemito));
             this.RemitoProveedorBindingSource = new System.Windows.Forms.BindingSource(this.components);
+            this.reportViewer1 = new Microsoft.Reporting.WinForms.ReportViewer();
             ((System.ComponentModel.ISupportInitialize)(this.RemitoProveedorBindingSource)).BeginInit();
             this.SuspendLayout();
+            // 
+            // RemitoProveedorBindingSource
+            // 
+            this.RemitoProveedorBindingSource.DataMember = "DetalleRemitoProveedor";
+            this.RemitoProveedorBindingSource.DataSource = typeof(Entidades.Sistema.RemitoProveedor);
             // 
             // reportViewer1
             // 
@@ -44,13 +50,9 @@
             this.reportViewer1.LocalReport.ReportEmbeddedResource = "Vista.RemitoProveedor.rdlc";
             this.reportViewer1.Location = new System.Drawing.Point(0, 0);
             this.reportViewer1.Name = "reportViewer1";
+            this.reportViewer1.ServerReport.BearerToken = null;
             this.reportViewer1.Size = new System.Drawing.Size(877, 334);
             this.reportViewer1.TabIndex = 0;
-            // 
-            // RemitoProveedorBindingSource
-            // 
-            this.RemitoProveedorBindingSource.DataMember = "DetalleRemitoProveedor";
-            this.RemitoProveedorBindingSource.DataSource = typeof(Entidades.Sistema.RemitoProveedor);
             // 
             // FrmReporteRemito
             // 
@@ -58,6 +60,7 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(877, 334);
             this.Controls.Add(this.reportViewer1);
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "FrmReporteRemito";
             this.Text = "Reporte Remito Proveedor";
             this.Load += new System.EventHandler(this.FrmReporteRemito_Load);

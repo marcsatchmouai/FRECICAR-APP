@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(FrmDetallesVentas));
             this.DGVDetallesVentas = new System.Windows.Forms.DataGridView();
             this.BTNCancelar = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.DGVDetallesVentas)).BeginInit();
@@ -62,6 +63,7 @@
             this.ClientSize = new System.Drawing.Size(499, 251);
             this.Controls.Add(this.BTNCancelar);
             this.Controls.Add(this.DGVDetallesVentas);
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "FrmDetallesVentas";
             this.Text = "FrmDetallesVentas";
             ((System.ComponentModel.ISupportInitialize)(this.DGVDetallesVentas)).EndInit();

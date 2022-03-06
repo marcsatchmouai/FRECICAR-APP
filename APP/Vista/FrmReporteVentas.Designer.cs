@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(FrmReporteVentas));
             this.BTNCReporte = new System.Windows.Forms.Button();
             this.DTPHasta = new System.Windows.Forms.DateTimePicker();
             this.label2 = new System.Windows.Forms.Label();
@@ -81,6 +82,7 @@
             // 
             this.reportViewer1.Location = new System.Drawing.Point(12, 38);
             this.reportViewer1.Name = "reportViewer1";
+            this.reportViewer1.ServerReport.BearerToken = null;
             this.reportViewer1.Size = new System.Drawing.Size(766, 445);
             this.reportViewer1.TabIndex = 10;
             // 
@@ -95,6 +97,7 @@
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.DTPDesde);
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "FrmReporteVentas";
             this.Text = "FrmReporteVentas";
             this.Load += new System.EventHandler(this.FrmReporteVentas_Load);

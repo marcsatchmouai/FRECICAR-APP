@@ -9,8 +9,8 @@ namespace Vista.Seguridad
         {
             InitializeComponent();
             this.ActiveControl = this.txtUsuario;
-            txtUsuario.Text = "marcsatchmo";
-            txtClave.Text = "VjwtmqAA";
+            txtUsuario.Text = "userAdmin";
+            txtClave.Text = "Gf93QnY3";
         }
         /// <summary>
         /// Cierra la aplicación y libera los recursos.
@@ -108,6 +108,11 @@ namespace Vista.Seguridad
         }
 
         private void FormLogin_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void pictureBox1_Click(object sender, EventArgs e)
         {
 
         }

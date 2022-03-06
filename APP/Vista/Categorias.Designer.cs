@@ -147,7 +147,7 @@
             this.label1.TabIndex = 0;
             this.label1.Text = "Buscar :";
             // 
-            // FrmCategorias
+            // Categorias
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;

@@ -29,7 +29,8 @@
         private void InitializeComponent()
         {
             this.components = new System.ComponentModel.Container();
-            Microsoft.Reporting.WinForms.ReportDataSource reportDataSource2 = new Microsoft.Reporting.WinForms.ReportDataSource();
+            Microsoft.Reporting.WinForms.ReportDataSource reportDataSource1 = new Microsoft.Reporting.WinForms.ReportDataSource();
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(FrmReporteMPP));
             this.SP_ReporteMateriasPrimasBindingSource = new System.Windows.Forms.BindingSource(this.components);
             this.TrabajoFinalDataSet = new Vista.TrabajoFinalDataSet();
             this.DTPDesde = new System.Windows.Forms.DateTimePicker();
@@ -57,10 +58,9 @@
             // 
             this.DTPDesde.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
-            this.DTPDesde.Location = new System.Drawing.Point(123, 15);
-            this.DTPDesde.Margin = new System.Windows.Forms.Padding(4);
+            this.DTPDesde.Location = new System.Drawing.Point(92, 12);
             this.DTPDesde.Name = "DTPDesde";
-            this.DTPDesde.Size = new System.Drawing.Size(287, 22);
+            this.DTPDesde.Size = new System.Drawing.Size(216, 20);
             this.DTPDesde.TabIndex = 0;
             // 
             // label1
@@ -68,10 +68,9 @@
             this.label1.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(16, 18);
-            this.label1.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label1.Location = new System.Drawing.Point(12, 15);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(96, 17);
+            this.label1.Size = new System.Drawing.Size(74, 13);
             this.label1.TabIndex = 1;
             this.label1.Text = "Fecha Desde:";
             // 
@@ -80,10 +79,9 @@
             this.label2.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(467, 18);
-            this.label2.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label2.Location = new System.Drawing.Point(350, 15);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(49, 17);
+            this.label2.Size = new System.Drawing.Size(38, 13);
             this.label2.TabIndex = 2;
             this.label2.Text = "Hasta:";
             // 
@@ -91,19 +89,17 @@
             // 
             this.DTPHasta.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
-            this.DTPHasta.Location = new System.Drawing.Point(525, 15);
-            this.DTPHasta.Margin = new System.Windows.Forms.Padding(4);
+            this.DTPHasta.Location = new System.Drawing.Point(394, 12);
             this.DTPHasta.Name = "DTPHasta";
-            this.DTPHasta.Size = new System.Drawing.Size(287, 22);
+            this.DTPHasta.Size = new System.Drawing.Size(216, 20);
             this.DTPHasta.TabIndex = 3;
             // 
             // BTNCReporte
             // 
             this.BTNCReporte.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.BTNCReporte.Location = new System.Drawing.Point(938, 11);
-            this.BTNCReporte.Margin = new System.Windows.Forms.Padding(4);
+            this.BTNCReporte.Location = new System.Drawing.Point(704, 9);
             this.BTNCReporte.Name = "BTNCReporte";
-            this.BTNCReporte.Size = new System.Drawing.Size(125, 28);
+            this.BTNCReporte.Size = new System.Drawing.Size(94, 23);
             this.BTNCReporte.TabIndex = 4;
             this.BTNCReporte.Text = "Crear Reporte";
             this.BTNCReporte.UseVisualStyleBackColor = true;
@@ -114,15 +110,14 @@
             this.reportViewer1.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
             | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
-            reportDataSource2.Name = "MateriasPrimas";
-            reportDataSource2.Value = this.SP_ReporteMateriasPrimasBindingSource;
-            this.reportViewer1.LocalReport.DataSources.Add(reportDataSource2);
+            reportDataSource1.Name = "MateriasPrimas";
+            reportDataSource1.Value = this.SP_ReporteMateriasPrimasBindingSource;
+            this.reportViewer1.LocalReport.DataSources.Add(reportDataSource1);
             this.reportViewer1.LocalReport.ReportEmbeddedResource = "Vista.ReporteMPP.rdlc";
-            this.reportViewer1.Location = new System.Drawing.Point(20, 47);
-            this.reportViewer1.Margin = new System.Windows.Forms.Padding(4);
+            this.reportViewer1.Location = new System.Drawing.Point(15, 38);
             this.reportViewer1.Name = "reportViewer1";
             this.reportViewer1.ServerReport.BearerToken = null;
-            this.reportViewer1.Size = new System.Drawing.Size(1043, 375);
+            this.reportViewer1.Size = new System.Drawing.Size(783, 305);
             this.reportViewer1.TabIndex = 5;
             // 
             // SP_ReporteMateriasPrimasTableAdapter
@@ -131,16 +126,16 @@
             // 
             // FrmReporteMPP
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1079, 435);
+            this.ClientSize = new System.Drawing.Size(809, 353);
             this.Controls.Add(this.reportViewer1);
             this.Controls.Add(this.BTNCReporte);
             this.Controls.Add(this.DTPHasta);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.DTPDesde);
-            this.Margin = new System.Windows.Forms.Padding(4);
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "FrmReporteMPP";
             this.Text = "FrmReporteMPP";
             this.Load += new System.EventHandler(this.FrmReporteMPP_Load);

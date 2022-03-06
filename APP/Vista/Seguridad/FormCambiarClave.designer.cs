@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(FormCambiarClave));
             this.lblUsuario = new System.Windows.Forms.Label();
             this.lblUsuarioActual = new System.Windows.Forms.Label();
             this.lblClave = new System.Windows.Forms.Label();
@@ -147,6 +148,7 @@
             this.Controls.Add(this.lblClave);
             this.Controls.Add(this.lblUsuarioActual);
             this.Controls.Add(this.lblUsuario);
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.MaximizeBox = false;
             this.MinimizeBox = false;
             this.Name = "FormCambiarClave";

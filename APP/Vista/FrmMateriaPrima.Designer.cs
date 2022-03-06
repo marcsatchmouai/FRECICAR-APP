@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(FrmMateriaPrima));
             this.MTXTCostoUnitario = new System.Windows.Forms.MaskedTextBox();
             this.MTXTCantidadMinima = new System.Windows.Forms.MaskedTextBox();
             this.CMBCategoria = new System.Windows.Forms.ComboBox();
@@ -256,6 +257,7 @@
             this.Controls.Add(this.CMBCategoria);
             this.Controls.Add(this.MTXTCantidadMinima);
             this.Controls.Add(this.MTXTCostoUnitario);
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "FrmMateriaPrima";
             this.Text = "FrmMateriaPrima";
             this.ResumeLayout(false);

@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Ventas));
             this.BTNImprimir = new System.Windows.Forms.Button();
             this.Filtrarpor = new System.Windows.Forms.GroupBox();
             this.RBCodigo = new System.Windows.Forms.RadioButton();
@@ -52,6 +53,7 @@
             this.BTNImprimir.TabIndex = 5;
             this.BTNImprimir.Text = "Imprimir";
             this.BTNImprimir.UseVisualStyleBackColor = true;
+            this.BTNImprimir.Click += new System.EventHandler(this.BTNImprimir_Click);
             // 
             // Filtrarpor
             // 
@@ -181,6 +183,7 @@
             this.Controls.Add(this.GrillaVentas);
             this.Controls.Add(this.BTNCancelar);
             this.Controls.Add(this.BTNAnular);
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "Ventas";
             this.Text = "FrmGestionarVentas";
             this.Filtrarpor.ResumeLayout(false);
