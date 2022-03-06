@@ -14,8 +14,7 @@ namespace Controladora.Seguridad
                 string claveNuevaEncriptada = handler.Encriptar(claveNueva);
                 if (oUsuario.CambiarClave(claveViejaEncriptada, claveNuevaEncriptada))
                 {
-                    //oUsuario.CambioContraseña = true;
-                    if (Modelo.Seguridad.Facade.ObtenerInstancia().Modificar(oUsuario))
+                    if (Modelo.Seguridad.Facade.ObtenerInstancia().Modificar(Modelo.Seguridad.Facade.ObtenerInstancia().Buscar("Usuario", oUsuario.NombreUsuario)))
                         return true;
                     else return false;
                 }

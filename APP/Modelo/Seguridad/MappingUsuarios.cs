@@ -136,7 +136,6 @@ namespace Mapping.Seguridad
                     cmd.Parameters.Add("@Activo", System.Data.SqlDbType.Bit, 15).Value = usuario.Activo;
                 }
 
-                var exec = cmd.ExecuteNonQuery();
                 if (cmd.ExecuteNonQuery() >= 1) operacion = true;
                 else operacion = false;
                 conexion.RetornarSqlTransaccion().Commit();
@@ -191,7 +190,7 @@ namespace Mapping.Seguridad
             {
                 List<Entidades.Seguridad.Grupo> gruposAgregados = usuario.Grupos.Except(cuidador.Memento.Grupos).ToList();
                 List<Entidades.Seguridad.Grupo> gruposEliminados = cuidador.Memento.Grupos.Except(usuario.Grupos).ToList();
-                if (gruposAgregados.Count != 0 || gruposEliminados.Count != 0)
+                if (gruposAgregados.Count != 0 || gruposEliminados.Count != 0 || usuario.CambioContraseña)
                 {
                     SqlCommand cmdActualizarGrupos = new SqlCommand();
                     conexion.Conectar("Seguridad");
