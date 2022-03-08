@@ -72,6 +72,7 @@
             // 
             this.lblClaveNueva.AutoSize = true;
             this.lblClaveNueva.Location = new System.Drawing.Point(12, 97);
+            
             this.lblClaveNueva.Name = "lblClaveNueva";
             this.lblClaveNueva.Size = new System.Drawing.Size(70, 13);
             this.lblClaveNueva.TabIndex = 8;
@@ -101,6 +102,7 @@
             // txtClave
             // 
             this.txtClave.Location = new System.Drawing.Point(105, 57);
+            this.txtClave.MaxLength = 8;
             this.txtClave.Name = "txtClave";
             this.txtClave.Size = new System.Drawing.Size(165, 20);
             this.txtClave.TabIndex = 0;
@@ -109,6 +111,7 @@
             // txtReingresoClave
             // 
             this.txtReingresoClave.Location = new System.Drawing.Point(105, 135);
+            this.txtReingresoClave.MaxLength = 8;
             this.txtReingresoClave.Name = "txtReingresoClave";
             this.txtReingresoClave.Size = new System.Drawing.Size(165, 20);
             this.txtReingresoClave.TabIndex = 2;
@@ -117,6 +120,7 @@
             // txtClaveNueva
             // 
             this.txtClaveNueva.Location = new System.Drawing.Point(105, 94);
+            this.txtClaveNueva.MaxLength = 8;
             this.txtClaveNueva.Name = "txtClaveNueva";
             this.txtClaveNueva.Size = new System.Drawing.Size(165, 20);
             this.txtClaveNueva.TabIndex = 1;
@@ -126,6 +130,7 @@
             // 
             this.lblReingresoClave.AutoSize = true;
             this.lblReingresoClave.Location = new System.Drawing.Point(12, 138);
+            this.txtClaveNueva.MaxLength = 8;
             this.lblReingresoClave.Name = "lblReingresoClave";
             this.lblReingresoClave.Size = new System.Drawing.Size(87, 13);
             this.lblReingresoClave.TabIndex = 9;
