@@ -264,7 +264,9 @@ namespace Vista
         }
         private void productosMasVendidosToolStripMenuItem_Click_1(object sender, EventArgs e)
         {
-            FRMReporteProductoMasVendido oFrmReportePMV = new FRMReporteProductoMasVendido();
+            //FRMReporteProductoMasVendido oFrmReportePMV = new FRMReporteProductoMasVendido();
+            //oFrmReportePMV.ShowDialog();
+            ReporteProductos oFrmReportePMV = new ReporteProductos();
             oFrmReportePMV.ShowDialog();
         }
     }

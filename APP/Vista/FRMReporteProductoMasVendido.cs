@@ -29,5 +29,10 @@ namespace Vista
             tabla.Fill(sistemaDataSet1.Sp_ReporteProductoMasVendido, DTPFD.Value, DTPFH.Value);
             this.ReportViewPMV.RefreshReport();
         }
+
+        private void ReportViewPMV_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

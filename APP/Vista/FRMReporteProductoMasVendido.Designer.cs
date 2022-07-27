@@ -38,6 +38,7 @@
             this.ReportViewPMV = new Microsoft.Reporting.WinForms.ReportViewer();
             this.sistemaDataSet1 = new Vista.SistemaDataSet();
             this.bindingSource1 = new System.Windows.Forms.BindingSource(this.components);
+            this.sp_ReporteProductoMasVendidoTableAdapter = new Vista.SistemaDataSetTableAdapters.Sp_ReporteProductoMasVendidoTableAdapter();
             ((System.ComponentModel.ISupportInitialize)(this.sistemaDataSet1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.bindingSource1)).BeginInit();
             this.SuspendLayout();
@@ -65,7 +66,7 @@
             // BTNCR
             // 
             this.BTNCR.Location = new System.Drawing.Point(511, 5);
-            this.BTNCR.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.BTNCR.Margin = new System.Windows.Forms.Padding(2);
             this.BTNCR.Name = "BTNCR";
             this.BTNCR.Size = new System.Drawing.Size(80, 27);
             this.BTNCR.TabIndex = 2;
@@ -76,7 +77,7 @@
             // DTPFD
             // 
             this.DTPFD.Location = new System.Drawing.Point(92, 11);
-            this.DTPFD.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.DTPFD.Margin = new System.Windows.Forms.Padding(2);
             this.DTPFD.Name = "DTPFD";
             this.DTPFD.Size = new System.Drawing.Size(170, 20);
             this.DTPFD.TabIndex = 3;
@@ -84,7 +85,7 @@
             // DTPFH
             // 
             this.DTPFH.Location = new System.Drawing.Point(340, 10);
-            this.DTPFH.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.DTPFH.Margin = new System.Windows.Forms.Padding(2);
             this.DTPFH.Name = "DTPFH";
             this.DTPFH.Size = new System.Drawing.Size(171, 20);
             this.DTPFH.TabIndex = 4;
@@ -92,12 +93,13 @@
             // ReportViewPMV
             // 
             this.ReportViewPMV.LocalReport.ReportEmbeddedResource = "Vista.ReporteProductosMasVendidos.rdlc";
-            this.ReportViewPMV.Location = new System.Drawing.Point(18, 37);
-            this.ReportViewPMV.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.ReportViewPMV.Location = new System.Drawing.Point(17, 36);
+            this.ReportViewPMV.Margin = new System.Windows.Forms.Padding(2);
             this.ReportViewPMV.Name = "ReportViewPMV";
             this.ReportViewPMV.ServerReport.BearerToken = null;
             this.ReportViewPMV.Size = new System.Drawing.Size(574, 320);
             this.ReportViewPMV.TabIndex = 5;
+            this.ReportViewPMV.Load += new System.EventHandler(this.ReportViewPMV_Load);
             // 
             // sistemaDataSet1
             // 
@@ -106,8 +108,12 @@
             // 
             // bindingSource1
             // 
+            this.bindingSource1.DataMember = "Sp_ReporteProductoMasVendido";
             this.bindingSource1.DataSource = this.sistemaDataSet1;
-            this.bindingSource1.Position = 0;
+            // 
+            // sp_ReporteProductoMasVendidoTableAdapter
+            // 
+            this.sp_ReporteProductoMasVendidoTableAdapter.ClearBeforeFill = true;
             // 
             // FRMReporteProductoMasVendido
             // 
@@ -121,7 +127,7 @@
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
-            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.Margin = new System.Windows.Forms.Padding(2);
             this.Name = "FRMReporteProductoMasVendido";
             this.Text = "Reporte Producto Mas Vendido";
             this.Load += new System.EventHandler(this.FRMReporteProductoMasVendido_Load);
@@ -142,5 +148,6 @@
         private Microsoft.Reporting.WinForms.ReportViewer ReportViewPMV;
         private SistemaDataSet sistemaDataSet1;
         private System.Windows.Forms.BindingSource bindingSource1;
+        private SistemaDataSetTableAdapters.Sp_ReporteProductoMasVendidoTableAdapter sp_ReporteProductoMasVendidoTableAdapter;
     }
 }

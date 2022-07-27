@@ -114,7 +114,7 @@
             reportDataSource1.Value = this.SP_ReporteMateriasPrimasBindingSource;
             this.reportViewer1.LocalReport.DataSources.Add(reportDataSource1);
             this.reportViewer1.LocalReport.ReportEmbeddedResource = "Vista.ReporteMPP.rdlc";
-            this.reportViewer1.Location = new System.Drawing.Point(15, 38);
+            this.reportViewer1.Location = new System.Drawing.Point(15, 36);
             this.reportViewer1.Name = "reportViewer1";
             this.reportViewer1.ServerReport.BearerToken = null;
             this.reportViewer1.Size = new System.Drawing.Size(783, 305);

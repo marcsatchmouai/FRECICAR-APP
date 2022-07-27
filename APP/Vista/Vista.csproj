@@ -62,7 +62,9 @@
     <Reference Include="Microsoft.SqlServer.Types, Version=14.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
       <HintPath>..\packages\Microsoft.SqlServer.Types.14.0.1016.290\lib\net40\Microsoft.SqlServer.Types.dll</HintPath>
     </Reference>
-    <Reference Include="System" />
+    <Reference Include="System">
+      <HintPath>..\..\..\..\..\..\..\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.6.1\System.dll</HintPath>
+    </Reference>
     <Reference Include="System.configuration" />
     <Reference Include="System.Core" />
     <Reference Include="System.DirectoryServices" />
@@ -180,12 +182,6 @@
     <Compile Include="FrmReporteMPP.Designer.cs">
       <DependentUpon>FrmReporteMPP.cs</DependentUpon>
     </Compile>
-    <Compile Include="FrmReportePMV.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="FrmReportePMV.Designer.cs">
-      <DependentUpon>FrmReportePMV.cs</DependentUpon>
-    </Compile>
     <Compile Include="FRMReporteProductoMasVendido.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -204,13 +200,16 @@
     <Compile Include="Productos.Designer.cs">
       <DependentUpon>Productos.cs</DependentUpon>
     </Compile>
-    <Compile Include="ProductosMasVendidos.cs">
-      <DependentUpon>ProductosMasVendidos.xsd</DependentUpon>
-    </Compile>
     <Compile Include="ProductosMasVendidos.Designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>ProductosMasVendidos.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="ReporteProductos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReporteProductos.Designer.cs">
+      <DependentUpon>ReporteProductos.cs</DependentUpon>
     </Compile>
     <Compile Include="SistemaDataSet.Designer.cs">
       <AutoGen>True</AutoGen>
@@ -413,9 +412,6 @@
     <EmbeddedResource Include="FrmReporteMPP.resx">
       <DependentUpon>FrmReporteMPP.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="FrmReportePMV.resx">
-      <DependentUpon>FrmReportePMV.cs</DependentUpon>
-    </EmbeddedResource>
     <EmbeddedResource Include="FRMReporteProductoMasVendido.resx">
       <DependentUpon>FRMReporteProductoMasVendido.cs</DependentUpon>
     </EmbeddedResource>
@@ -427,6 +423,12 @@
     </EmbeddedResource>
     <EmbeddedResource Include="ReporteMPP.rdlc">
       <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReporteProductos.rdlc">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReporteProductos.resx">
+      <DependentUpon>ReporteProductos.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="ReporteProductosMasVendidos.rdlc" />
     <EmbeddedResource Include="Ventas.resx">
@@ -592,6 +594,9 @@
     <Content Include="SqlServerTypes\x86\SqlServerSpatial140.dll">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Connected Services\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
