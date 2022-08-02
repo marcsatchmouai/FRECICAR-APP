@@ -30,7 +30,6 @@
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(CategoriasP));
             this.label1 = new System.Windows.Forms.Label();
-            this.TXTFiltro = new System.Windows.Forms.TextBox();
             this.GrillaCategoria = new System.Windows.Forms.DataGridView();
             this.Nombre = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.Descripcion = new System.Windows.Forms.DataGridViewTextBoxColumn();
@@ -38,6 +37,7 @@
             this.BTNEliminar = new System.Windows.Forms.Button();
             this.BTNModificar = new System.Windows.Forms.Button();
             this.BTNAceptar = new System.Windows.Forms.Button();
+            this.TXTFiltro = new System.Windows.Forms.TextBox();
             ((System.ComponentModel.ISupportInitialize)(this.GrillaCategoria)).BeginInit();
             this.SuspendLayout();
             // 
@@ -49,15 +49,6 @@
             this.label1.Size = new System.Drawing.Size(46, 13);
             this.label1.TabIndex = 7;
             this.label1.Text = "Buscar :";
-            // 
-            // TXTFiltro
-            // 
-            this.TXTFiltro.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.TXTFiltro.Location = new System.Drawing.Point(60, 12);
-            this.TXTFiltro.Name = "TXTFiltro";
-            this.TXTFiltro.Size = new System.Drawing.Size(554, 20);
-            this.TXTFiltro.TabIndex = 8;
             // 
             // GrillaCategoria
             // 
@@ -145,13 +136,21 @@
             this.BTNAceptar.UseVisualStyleBackColor = true;
             this.BTNAceptar.Click += new System.EventHandler(this.BTNAceptar_Click_1);
             // 
+            // TXTFiltro
+            // 
+            this.TXTFiltro.Location = new System.Drawing.Point(61, 15);
+            this.TXTFiltro.Name = "TXTFiltro";
+            this.TXTFiltro.Size = new System.Drawing.Size(553, 20);
+            this.TXTFiltro.TabIndex = 14;
+            this.TXTFiltro.TextChanged += new System.EventHandler(this.TXTFiltro_TextChanged);
+            // 
             // CategoriasP
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(623, 349);
-            this.Controls.Add(this.label1);
             this.Controls.Add(this.TXTFiltro);
+            this.Controls.Add(this.label1);
             this.Controls.Add(this.GrillaCategoria);
             this.Controls.Add(this.BTNCancelar);
             this.Controls.Add(this.BTNEliminar);
@@ -169,7 +168,6 @@
         #endregion
 
         private System.Windows.Forms.Label label1;
-        private System.Windows.Forms.TextBox TXTFiltro;
         private System.Windows.Forms.DataGridView GrillaCategoria;
         private System.Windows.Forms.DataGridViewTextBoxColumn Nombre;
         private System.Windows.Forms.DataGridViewTextBoxColumn Descripcion;
@@ -177,5 +175,6 @@
         private System.Windows.Forms.Button BTNEliminar;
         private System.Windows.Forms.Button BTNModificar;
         private System.Windows.Forms.Button BTNAceptar;
+        private System.Windows.Forms.TextBox TXTFiltro;
     }
 }

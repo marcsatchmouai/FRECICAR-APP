@@ -66,12 +66,11 @@
             // 
             this.RBCodigo.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.RBCodigo.AutoSize = true;
-            this.RBCodigo.Location = new System.Drawing.Point(657, 13);
+            this.RBCodigo.Location = new System.Drawing.Point(637, 13);
             this.RBCodigo.Name = "RBCodigo";
-            this.RBCodigo.Size = new System.Drawing.Size(58, 17);
+            this.RBCodigo.Size = new System.Drawing.Size(78, 17);
             this.RBCodigo.TabIndex = 2;
-            this.RBCodigo.TabStop = true;
-            this.RBCodigo.Text = "Codigo";
+            this.RBCodigo.Text = "Nro Remito";
             this.RBCodigo.UseVisualStyleBackColor = true;
             // 
             // RBFecha
@@ -82,13 +81,13 @@
             this.RBFecha.Name = "RBFecha";
             this.RBFecha.Size = new System.Drawing.Size(55, 17);
             this.RBFecha.TabIndex = 1;
-            this.RBFecha.TabStop = true;
             this.RBFecha.Text = "Fecha";
             this.RBFecha.UseVisualStyleBackColor = true;
             // 
             // RBProveedor
             // 
             this.RBProveedor.AutoSize = true;
+            this.RBProveedor.Checked = true;
             this.RBProveedor.Location = new System.Drawing.Point(46, 13);
             this.RBProveedor.Name = "RBProveedor";
             this.RBProveedor.Size = new System.Drawing.Size(74, 17);
@@ -114,6 +113,7 @@
             this.TXTFiltrar.Name = "TXTFiltrar";
             this.TXTFiltrar.Size = new System.Drawing.Size(723, 20);
             this.TXTFiltrar.TabIndex = 1;
+            this.TXTFiltrar.TextChanged += new System.EventHandler(this.TXTFiltrar_TextChanged);
             // 
             // BTNConsulta
             // 

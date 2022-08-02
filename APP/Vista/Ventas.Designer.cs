@@ -76,7 +76,6 @@
             this.RBCodigo.Name = "RBCodigo";
             this.RBCodigo.Size = new System.Drawing.Size(58, 17);
             this.RBCodigo.TabIndex = 2;
-            this.RBCodigo.TabStop = true;
             this.RBCodigo.Text = "Codigo";
             this.RBCodigo.UseVisualStyleBackColor = true;
             // 
@@ -87,19 +86,19 @@
             this.RBFecha.Name = "RBFecha";
             this.RBFecha.Size = new System.Drawing.Size(55, 17);
             this.RBFecha.TabIndex = 1;
-            this.RBFecha.TabStop = true;
             this.RBFecha.Text = "Fecha";
             this.RBFecha.UseVisualStyleBackColor = true;
             // 
             // RBProveedor
             // 
             this.RBProveedor.AutoSize = true;
+            this.RBProveedor.Checked = true;
             this.RBProveedor.Location = new System.Drawing.Point(46, 13);
             this.RBProveedor.Name = "RBProveedor";
-            this.RBProveedor.Size = new System.Drawing.Size(74, 17);
+            this.RBProveedor.Size = new System.Drawing.Size(57, 17);
             this.RBProveedor.TabIndex = 0;
             this.RBProveedor.TabStop = true;
-            this.RBProveedor.Text = "Proveedor";
+            this.RBProveedor.Text = "Cliente";
             this.RBProveedor.UseVisualStyleBackColor = true;
             // 
             // label1
@@ -119,6 +118,7 @@
             this.TXTFiltrar.Name = "TXTFiltrar";
             this.TXTFiltrar.Size = new System.Drawing.Size(695, 20);
             this.TXTFiltrar.TabIndex = 0;
+            this.TXTFiltrar.TextChanged += new System.EventHandler(this.TXTFiltrar_TextChanged);
             // 
             // BTNConsulta
             // 

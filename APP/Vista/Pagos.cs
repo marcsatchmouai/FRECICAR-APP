@@ -42,8 +42,23 @@ namespace Vista
 
         private void TXTFiltro_TextChanged(object sender, EventArgs e)
         {
-            DGVPagos.DataSource = null;
-            DGVPagos.DataSource = _Controladora.Listar().Find(x => x.Codigo == Convert.ToInt32(TXTFiltro.Text));
+            if (int.TryParse(TXTFiltro.Text,out int result))
+            {
+                DGVPagos.DataSource = null;
+                DGVPagos.DataSource = _Controladora.Listar().Where(x => x.Codigo == result).ToList();
+            }
+            else
+            {
+                if (TXTFiltro.Text != "")
+                {
+                    MessageBox.Show("Ingrese solo caracteres numericos para filtrar por codigo.");
+                }
+                else
+                {
+                    CargarGrillas();
+                }
+            }
+
         }
     }
 }

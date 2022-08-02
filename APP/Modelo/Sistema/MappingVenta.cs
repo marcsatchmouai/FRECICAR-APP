@@ -35,7 +35,7 @@ namespace Mapping.Sistema
                 cmd.CommandText = "SP_AddVenta";
                 cmd.CommandType = System.Data.CommandType.StoredProcedure;
                 cmd.Parameters.Add("@Detalle", System.Data.SqlDbType.NVarChar, 120).Value = Venta.Detalle;
-     //           cmd.Parameters.Add("@FormadeEnvio", System.Data.SqlDbType.NVarChar, 15).Value = Venta.Envio.Nombre;
+                cmd.Parameters.Add("@FormadeEnvio", System.Data.SqlDbType.NVarChar, 15).Value = Venta.Envio.Nombre;
                 cmd.Parameters.Add("@FormadePago", System.Data.SqlDbType.NVarChar, 30).Value = Venta.FormadePago.Nombre;
                 cmd.Parameters.Add("@Cuit", System.Data.SqlDbType.BigInt).Value = Venta.Cliente.Cuit;
                 cmd.Parameters.Add("@Total", System.Data.SqlDbType.Decimal).Value = Venta.Total;

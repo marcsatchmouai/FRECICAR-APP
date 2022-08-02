@@ -49,6 +49,7 @@ namespace Modelo.Seguridad
         public bool ModificarUsuario(Entidades.Seguridad.Usuario usuario)
         {
             bool operacion = false;
+            this.BuscarUsuario(usuario.NombreUsuario);
             if (Mapping.Seguridad.MappingUsuarios.ModificarUsuario(usuario) && Mapping.Seguridad.MappingUsuarios.ActualizarGrupos(usuario, _Cuidador))
             {
                 operacion = true;

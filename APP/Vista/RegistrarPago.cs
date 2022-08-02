@@ -22,7 +22,7 @@ namespace Vista
             this.perfiles = oPerfiles;
             InitializeComponent();
             Iniciacion();
-        //    CargarPermisos();
+            CargarPermisos();
             this.MSKImporte.LostFocus += MSKImporte_LostFocus;
         }
 

@@ -98,5 +98,31 @@ namespace Vista
         {
 
         }
+
+        private void TXTFiltrar_TextChanged(object sender, EventArgs e)
+        {
+            if (TXTFiltrar.Text == "")
+            {
+                CargarGrilla();
+            }
+            else
+            {
+                if (RBProveedor.Checked == true)
+                {
+                    GrillaVentas.DataSource = null;
+                    GrillaVentas.DataSource = Controladora.Sistema.ControladoraVenta.ObtenerInstancia().RecuperarVentas().FindAll(x => x.Cliente.RazonSocial.ToLower().StartsWith(TXTFiltrar.Text.ToLower()));
+                }
+                if (RBCodigo.Checked == true)
+                {
+                    GrillaVentas.DataSource = null;
+                    GrillaVentas.DataSource = Controladora.Sistema.ControladoraVenta.ObtenerInstancia().RecuperarVentas().FindAll(x => x.CodigoVenta.ToString().StartsWith(TXTFiltrar.Text));
+                }
+                if (RBFecha.Checked == true)
+                {
+                    GrillaVentas.DataSource = null;
+                    GrillaVentas.DataSource = Controladora.Sistema.ControladoraVenta.ObtenerInstancia().RecuperarVentas().FindAll(x => x.Fecha.ToString().StartsWith(TXTFiltrar.Text));
+                }
+            }
+        }
     }
 }

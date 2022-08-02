@@ -61,18 +61,6 @@ namespace Vista
         {
             //    ActualizarGrilla();
         }         
-        private void TXTFiltro_TextChanged(object sender, EventArgs e)
-        {
-            if (TXTFiltro.Text == "")
-            {
-                ActualizarGrilla();
-            }
-            else
-            {
-                GrillaCategoria.DataSource = null;
-                GrillaCategoria.DataSource = _Controladora.RecuperarCategorias().FindAll(x => x.Nombre.ToLower().StartsWith(TXTFiltro.Text.ToLower()));
-            }
-        }
 
         private void BTNCancelar_Click_1(object sender, EventArgs e)
         {
@@ -123,6 +111,19 @@ namespace Vista
                 _Controladora.Eliminar(oCategoria);
                 MessageBox.Show("Se a eliminado Correctamente");
                 ActualizarGrilla();
+            }
+        }
+
+        private void TXTFiltro_TextChanged(object sender, EventArgs e)
+        {
+            if (TXTFiltro.Text == "")
+            {
+                ActualizarGrilla();
+            }
+            else
+            {
+                GrillaCategoria.DataSource = null;
+                GrillaCategoria.DataSource = _Controladora.RecuperarCategorias().FindAll(x => x.Nombre.ToLower().StartsWith(TXTFiltro.Text.ToLower()));
             }
         }
     }
